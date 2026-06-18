@@ -1,0 +1,1254 @@
+[
+ {
+  "name": "Adaptable",
+  "description": ""
+ },
+ {
+  "name": "Piel Celeste",
+  "description": ""
+ },
+ {
+  "name": "Detonación",
+  "description": ""
+ },
+ {
+  "name": "Bucle Aire",
+  "description": ""
+ },
+ {
+  "name": "Cálculo Final",
+  "description": ""
+ },
+ {
+  "name": "Irascible",
+  "description": ""
+ },
+ {
+  "name": "Coraza Ira",
+  "description": ""
+ },
+ {
+  "name": "Anticipación",
+  "description": ""
+ },
+ {
+  "name": "Trampa Arena",
+  "description": ""
+ },
+ {
+  "name": "Cola Armadura",
+  "description": ""
+ },
+ {
+  "name": "Velo Aroma",
+  "description": ""
+ },
+ {
+  "name": "Unidad Ecuestre",
+  "description": ""
+ },
+ {
+  "name": "Rompeaura",
+  "description": ""
+ },
+ {
+  "name": "Mal Sueño",
+  "description": ""
+ },
+ {
+  "name": "Recogebolas",
+  "description": ""
+ },
+ {
+  "name": "Batería",
+  "description": ""
+ },
+ {
+  "name": "Armadura Batalla",
+  "description": ""
+ },
+ {
+  "name": "Fuerte Afecto",
+  "description": ""
+ },
+ {
+  "name": "Caldero Debacle",
+  "description": ""
+ },
+ {
+  "name": "Ultraimpulso",
+  "description": ""
+ },
+ {
+  "name": "Cólera",
+  "description": ""
+ },
+ {
+  "name": "Sacapecho",
+  "description": ""
+ },
+ {
+  "name": "Mar Llamas",
+  "description": ""
+ },
+ {
+  "name": "Antibalas",
+  "description": ""
+ },
+ {
+  "name": "Carrillo",
+  "description": ""
+ },
+ {
+  "name": "Relincho Blanco",
+  "description": ""
+ },
+ {
+  "name": "Clorofila",
+  "description": ""
+ },
+ {
+  "name": "Cuerpo Puro",
+  "description": ""
+ },
+ {
+  "name": "Aclimatación",
+  "description": ""
+ },
+ {
+  "name": "Cambio Color",
+  "description": ""
+ },
+ {
+  "name": "Letargo Perenne",
+  "description": ""
+ },
+ {
+  "name": "Comandar",
+  "description": ""
+ },
+ {
+  "name": "Tenacidad",
+  "description": ""
+ },
+ {
+  "name": "Ojo Compuesto",
+  "description": ""
+ },
+ {
+  "name": "Respondón",
+  "description": ""
+ },
+ {
+  "name": "Corrosión",
+  "description": ""
+ },
+ {
+  "name": "Unísono",
+  "description": ""
+ },
+ {
+  "name": "Pelusa",
+  "description": ""
+ },
+ {
+  "name": "Rumia",
+  "description": ""
+ },
+ {
+  "name": "Medicina Extraña",
+  "description": ""
+ },
+ {
+  "name": "Cuerpo Maldito",
+  "description": ""
+ },
+ {
+  "name": "Gran Encanto",
+  "description": ""
+ },
+ {
+  "name": "Humedad",
+  "description": ""
+ },
+ {
+  "name": "Pareja de Baile",
+  "description": ""
+ },
+ {
+  "name": "Aura Oscura",
+  "description": ""
+ },
+ {
+  "name": "Escudo Recio",
+  "description": ""
+ },
+ {
+  "name": "Cuerpo Vívido",
+  "description": ""
+ },
+ {
+  "name": "Flaqueza",
+  "description": ""
+ },
+ {
+  "name": "Competitivo",
+  "description": ""
+ },
+ {
+  "name": "Ráfaga Delta",
+  "description": ""
+ },
+ {
+  "name": "Tierra del Ocaso",
+  "description": ""
+ },
+ {
+  "name": "Disfraz",
+  "description": ""
+ },
+ {
+  "name": "Descarga",
+  "description": ""
+ },
+ {
+  "name": "Dragonize",
+  "description": ""
+ },
+ {
+  "name": "Mandíbula Dragón",
+  "description": ""
+ },
+ {
+  "name": "Llovizna",
+  "description": ""
+ },
+ {
+  "name": "Sequía",
+  "description": ""
+ },
+ {
+  "name": "Piel Seca",
+  "description": ""
+ },
+ {
+  "name": "Madrugar",
+  "description": ""
+ },
+ {
+  "name": "Geofagia",
+  "description": ""
+ },
+ {
+  "name": "Eelevate",
+  "description": ""
+ },
+ {
+  "name": "Efecto Espora",
+  "description": ""
+ },
+ {
+  "name": "Electrogénesis",
+  "description": ""
+ },
+ {
+  "name": "Dinamo",
+  "description": ""
+ },
+ {
+  "name": "Teracambio",
+  "description": ""
+ },
+ {
+  "name": "Evocarrecuerdos",
+  "description": ""
+ },
+ {
+  "name": "Hospitalidad",
+  "description": ""
+ },
+ {
+  "name": "Cadena Tóxica",
+  "description": ""
+ },
+ {
+  "name": "Retirada",
+  "description": ""
+ },
+ {
+  "name": "Aura Feérica",
+  "description": ""
+ },
+ {
+  "name": "Filtro",
+  "description": ""
+ },
+ {
+  "name": "Fire Mane",
+  "description": ""
+ },
+ {
+  "name": "Cuerpo Llama",
+  "description": ""
+ },
+ {
+  "name": "Ímpetu Ardiente",
+  "description": ""
+ },
+ {
+  "name": "Absorbe Fuego",
+  "description": ""
+ },
+ {
+  "name": "Don Floral",
+  "description": ""
+ },
+ {
+  "name": "Velo Flor",
+  "description": ""
+ },
+ {
+  "name": "Peluche",
+  "description": ""
+ },
+ {
+  "name": "Predicción",
+  "description": ""
+ },
+ {
+  "name": "Alerta",
+  "description": ""
+ },
+ {
+  "name": "Compiescolta",
+  "description": ""
+ },
+ {
+  "name": "Cacheo",
+  "description": ""
+ },
+ {
+  "name": "Guardia Metálica",
+  "description": ""
+ },
+ {
+  "name": "Pelaje Recio",
+  "description": ""
+ },
+ {
+  "name": "Alas Vendaval",
+  "description": ""
+ },
+ {
+  "name": "Piel Eléctrica",
+  "description": ""
+ },
+ {
+  "name": "Gula",
+  "description": ""
+ },
+ {
+  "name": "Cuerpo Áureo",
+  "description": ""
+ },
+ {
+  "name": "Baba",
+  "description": ""
+ },
+ {
+  "name": "Monotema",
+  "description": ""
+ },
+ {
+  "name": "Manto Frondoso",
+  "description": ""
+ },
+ {
+  "name": "Herbogénesis",
+  "description": ""
+ },
+ {
+  "name": "Relincho Negro",
+  "description": ""
+ },
+ {
+  "name": "Perro Guardián",
+  "description": ""
+ },
+ {
+  "name": "Tragamisil",
+  "description": ""
+ },
+ {
+  "name": "Agallas",
+  "description": ""
+ },
+ {
+  "name": "Motor Hadrónico",
+  "description": ""
+ },
+ {
+  "name": "Cosecha",
+  "description": ""
+ },
+ {
+  "name": "Alma Cura",
+  "description": ""
+ },
+ {
+  "name": "Ignífugo",
+  "description": ""
+ },
+ {
+  "name": "Metal Pesado",
+  "description": ""
+ },
+ {
+  "name": "Recogemiel",
+  "description": ""
+ },
+ {
+  "name": "Ojo Mental",
+  "description": ""
+ },
+ {
+  "name": "Potencia",
+  "description": ""
+ },
+ {
+  "name": "Mutapetito",
+  "description": ""
+ },
+ {
+  "name": "Entusiasmo",
+  "description": ""
+ },
+ {
+  "name": "Hidratación",
+  "description": ""
+ },
+ {
+  "name": "Corte Fuerte",
+  "description": ""
+ },
+ {
+  "name": "Gélido",
+  "description": ""
+ },
+ {
+  "name": "Cara de Hielo",
+  "description": ""
+ },
+ {
+  "name": "Escama de Hielo",
+  "description": ""
+ },
+ {
+  "name": "Iluminación",
+  "description": ""
+ },
+ {
+  "name": "Ilusión",
+  "description": ""
+ },
+ {
+  "name": "Inmunidad",
+  "description": ""
+ },
+ {
+  "name": "Impostor",
+  "description": ""
+ },
+ {
+  "name": "Allanamiento",
+  "description": ""
+ },
+ {
+  "name": "Revés",
+  "description": ""
+ },
+ {
+  "name": "Foco Interno",
+  "description": ""
+ },
+ {
+  "name": "Insomnio",
+  "description": ""
+ },
+ {
+  "name": "Intimidación",
+  "description": ""
+ },
+ {
+  "name": "Espada Indómita",
+  "description": ""
+ },
+ {
+  "name": "Punta Acero",
+  "description": ""
+ },
+ {
+  "name": "Puño Férreo",
+  "description": ""
+ },
+ {
+  "name": "Justiciero",
+  "description": ""
+ },
+ {
+  "name": "Vista Lince",
+  "description": ""
+ },
+ {
+  "name": "Zoquete",
+  "description": ""
+ },
+ {
+  "name": "Defensa Hoja",
+  "description": ""
+ },
+ {
+  "name": "Levitación",
+  "description": ""
+ },
+ {
+  "name": "Líbero",
+  "description": ""
+ },
+ {
+  "name": "Metal Liviano",
+  "description": ""
+ },
+ {
+  "name": "Pararrayos",
+  "description": ""
+ },
+ {
+  "name": "Flexibilidad",
+  "description": ""
+ },
+ {
+  "name": "Olor Persistente",
+  "description": ""
+ },
+ {
+  "name": "Lodo Líquido",
+  "description": ""
+ },
+ {
+  "name": "Voz Fluida",
+  "description": ""
+ },
+ {
+  "name": "Remoto",
+  "description": ""
+ },
+ {
+  "name": "Espejo Mágico",
+  "description": ""
+ },
+ {
+  "name": "Muro Mágico",
+  "description": ""
+ },
+ {
+  "name": "Prestidigitador",
+  "description": ""
+ },
+ {
+  "name": "Escudo Magma",
+  "description": ""
+ },
+ {
+  "name": "Imán",
+  "description": ""
+ },
+ {
+  "name": "Escama Especial",
+  "description": ""
+ },
+ {
+  "name": "Megadisparador",
+  "description": ""
+ },
+ {
+  "name": "Mega Sol",
+  "description": ""
+ },
+ {
+  "name": "Ensañamiento",
+  "description": ""
+ },
+ {
+  "name": "Mimetismo",
+  "description": ""
+ },
+ {
+  "name": "Néctar Dulce",
+  "description": ""
+ },
+ {
+  "name": "Menos",
+  "description": ""
+ },
+ {
+  "name": "Coraza Reflejo",
+  "description": ""
+ },
+ {
+  "name": "Nebulogénesis",
+  "description": ""
+ },
+ {
+  "name": "Rompemoldes",
+  "description": ""
+ },
+ {
+  "name": "Veleta",
+  "description": ""
+ },
+ {
+  "name": "Electromotor",
+  "description": ""
+ },
+ {
+  "name": "Autoestima",
+  "description": ""
+ },
+ {
+  "name": "Multiescamas",
+  "description": ""
+ },
+ {
+  "name": "Multitipo",
+  "description": ""
+ },
+ {
+  "name": "Momia",
+  "description": ""
+ },
+ {
+  "name": "Poder Fúngico",
+  "description": ""
+ },
+ {
+  "name": "Cura Natural",
+  "description": ""
+ },
+ {
+  "name": "Fuerza Cerebral",
+  "description": ""
+ },
+ {
+  "name": "Gas Reactivo",
+  "description": ""
+ },
+ {
+  "name": "Indefenso",
+  "description": ""
+ },
+ {
+  "name": "Normalidad",
+  "description": ""
+ },
+ {
+  "name": "Despiste",
+  "description": ""
+ },
+ {
+  "name": "Oportunista",
+  "description": ""
+ },
+ {
+  "name": "Latido Oricalco",
+  "description": ""
+ },
+ {
+  "name": "Funda",
+  "description": ""
+ },
+ {
+  "name": "Espesura",
+  "description": ""
+ },
+ {
+  "name": "Ritmo Propio",
+  "description": ""
+ },
+ {
+  "name": "Amor Filial",
+  "description": ""
+ },
+ {
+  "name": "Velo Pastel",
+  "description": ""
+ },
+ {
+  "name": "Cuerpo Mortal",
+  "description": ""
+ },
+ {
+  "name": "Hurto",
+  "description": ""
+ },
+ {
+  "name": "Recogida",
+  "description": ""
+ },
+ {
+  "name": "Salpicante",
+  "description": ""
+ },
+ {
+  "name": "Piel Feérica",
+  "description": ""
+ },
+ {
+  "name": "Más",
+  "description": ""
+ },
+ {
+  "name": "Antídoto",
+  "description": ""
+ },
+ {
+  "name": "Punto Tóxico",
+  "description": ""
+ },
+ {
+  "name": "Megasolar",
+  "description": ""
+ },
+ {
+  "name": "Toque Tóxico",
+  "description": ""
+ },
+ {
+  "name": "Agrupamiento",
+  "description": ""
+ },
+ {
+  "name": "Reacción Química",
+  "description": ""
+ },
+ {
+  "name": "Fuente Energía",
+  "description": ""
+ },
+ {
+  "name": "Bromista",
+  "description": ""
+ },
+ {
+  "name": "Presión",
+  "description": ""
+ },
+ {
+  "name": "Mar del Albor",
+  "description": ""
+ },
+ {
+  "name": "Armadura Prisma",
+  "description": ""
+ },
+ {
+  "name": "Hélice Caudal",
+  "description": ""
+ },
+ {
+  "name": "Mutatipo",
+  "description": ""
+ },
+ {
+  "name": "Paleosíntesis",
+  "description": ""
+ },
+ {
+  "name": "Psicogénesis",
+  "description": ""
+ },
+ {
+  "name": "Punk Rock",
+  "description": ""
+ },
+ {
+  "name": "Energía Pura",
+  "description": ""
+ },
+ {
+  "name": "Sal Purificadora",
+  "description": ""
+ },
+ {
+  "name": "Carga Cuark",
+  "description": ""
+ },
+ {
+  "name": "Regia Presencia",
+  "description": ""
+ },
+ {
+  "name": "Mano Rápida",
+  "description": ""
+ },
+ {
+  "name": "Pies Rápidos",
+  "description": ""
+ },
+ {
+  "name": "Cura Lluvia",
+  "description": ""
+ },
+ {
+  "name": "Cobardía",
+  "description": ""
+ },
+ {
+  "name": "Receptor",
+  "description": ""
+ },
+ {
+  "name": "Audaz",
+  "description": ""
+ },
+ {
+  "name": "Piel Helada",
+  "description": ""
+ },
+ {
+  "name": "Regeneración",
+  "description": ""
+ },
+ {
+  "name": "Maduración",
+  "description": ""
+ },
+ {
+  "name": "Rivalidad",
+  "description": ""
+ },
+ {
+  "name": "Sistema Alfa",
+  "description": ""
+ },
+ {
+  "name": "Cabeza Roca",
+  "description": ""
+ },
+ {
+  "name": "Transportarrocas",
+  "description": ""
+ },
+ {
+  "name": "Piel Tosca",
+  "description": ""
+ },
+ {
+  "name": "Fuga",
+  "description": ""
+ },
+ {
+  "name": "Poder Arena",
+  "description": ""
+ },
+ {
+  "name": "Ímpetu Arena",
+  "description": ""
+ },
+ {
+  "name": "Expulsarena",
+  "description": ""
+ },
+ {
+  "name": "Chorro Arena",
+  "description": ""
+ },
+ {
+  "name": "Velo Arena",
+  "description": ""
+ },
+ {
+  "name": "Herbívoro",
+  "description": ""
+ },
+ {
+  "name": "Banco",
+  "description": ""
+ },
+ {
+  "name": "Intrépido",
+  "description": ""
+ },
+ {
+  "name": "Antibarrera",
+  "description": ""
+ },
+ {
+  "name": "Disemillar",
+  "description": ""
+ },
+ {
+  "name": "Dicha",
+  "description": ""
+ },
+ {
+  "name": "Guardia Espectro",
+  "description": ""
+ },
+ {
+  "name": "Sombra Trampa",
+  "description": ""
+ },
+ {
+  "name": "Cortante",
+  "description": ""
+ },
+ {
+  "name": "Mudar",
+  "description": ""
+ },
+ {
+  "name": "Potencia Bruta",
+  "description": ""
+ },
+ {
+  "name": "Caparazón",
+  "description": ""
+ },
+ {
+  "name": "Polvo Escudo",
+  "description": ""
+ },
+ {
+  "name": "Escudo Limitado",
+  "description": ""
+ },
+ {
+  "name": "Simple",
+  "description": ""
+ },
+ {
+  "name": "Encadenado",
+  "description": ""
+ },
+ {
+  "name": "Inicio Lento",
+  "description": ""
+ },
+ {
+  "name": "Quitanieves",
+  "description": ""
+ },
+ {
+  "name": "Francotirador",
+  "description": ""
+ },
+ {
+  "name": "Manto Níveo",
+  "description": ""
+ },
+ {
+  "name": "Nevada",
+  "description": ""
+ },
+ {
+  "name": "Poder Solar",
+  "description": ""
+ },
+ {
+  "name": "Roca Sólida",
+  "description": ""
+ },
+ {
+  "name": "Coránima",
+  "description": ""
+ },
+ {
+  "name": "Insonorizar",
+  "description": ""
+ },
+ {
+  "name": "Impulso",
+  "description": ""
+ },
+ {
+  "name": "Spicy Spray",
+  "description": ""
+ },
+ {
+  "name": "Vigilante",
+  "description": ""
+ },
+ {
+  "name": "Rezagado",
+  "description": ""
+ },
+ {
+  "name": "Acérrimo",
+  "description": ""
+ },
+ {
+  "name": "Firmeza",
+  "description": ""
+ },
+ {
+  "name": "Cambio Táctico",
+  "description": ""
+ },
+ {
+  "name": "Elec. Estática",
+  "description": ""
+ },
+ {
+  "name": "Impasible",
+  "description": ""
+ },
+ {
+  "name": "Combustible",
+  "description": ""
+ },
+ {
+  "name": "Acero Templado",
+  "description": ""
+ },
+ {
+  "name": "Alma Acerada",
+  "description": ""
+ },
+ {
+  "name": "Hedor",
+  "description": ""
+ },
+ {
+  "name": "Viscosidad",
+  "description": ""
+ },
+ {
+  "name": "Colector",
+  "description": ""
+ },
+ {
+  "name": "Mandíbula Fuerte",
+  "description": ""
+ },
+ {
+  "name": "Robustez",
+  "description": ""
+ },
+ {
+  "name": "Ventosas",
+  "description": ""
+ },
+ {
+  "name": "Afortunado",
+  "description": ""
+ },
+ {
+  "name": "Teraformación 0",
+  "description": ""
+ },
+ {
+  "name": "General Supremo",
+  "description": ""
+ },
+ {
+  "name": "Cola Surf",
+  "description": ""
+ },
+ {
+  "name": "Enjambre",
+  "description": ""
+ },
+ {
+  "name": "Velo Dulce",
+  "description": ""
+ },
+ {
+  "name": "Nado Rápido",
+  "description": ""
+ },
+ {
+  "name": "Espada Debacle",
+  "description": ""
+ },
+ {
+  "name": "Simbiosis",
+  "description": ""
+ },
+ {
+  "name": "Sincronía",
+  "description": ""
+ },
+ {
+  "name": "Tumbos",
+  "description": ""
+ },
+ {
+  "name": "Rizos Rebeldes",
+  "description": ""
+ },
+ {
+  "name": "Experto",
+  "description": ""
+ },
+ {
+  "name": "Telepatía",
+  "description": ""
+ },
+ {
+  "name": "Piel Dragontina",
+  "description": ""
+ },
+ {
+  "name": "Turbotaladro",
+  "description": ""
+ },
+ {
+  "name": "Títere Tóxico",
+  "description": ""
+ },
+ {
+  "name": "Terravoltaje",
+  "description": ""
+ },
+ {
+  "name": "Termoconversión",
+  "description": ""
+ },
+ {
+  "name": "Sebo",
+  "description": ""
+ },
+ {
+  "name": "Cromolente",
+  "description": ""
+ },
+ {
+  "name": "Torrente",
+  "description": ""
+ },
+ {
+  "name": "Garra Dura",
+  "description": ""
+ },
+ {
+  "name": "Ímpetu Tóxico",
+  "description": ""
+ },
+ {
+  "name": "Teracaparazón",
+  "description": ""
+ },
+ {
+  "name": "Capa Tóxica",
+  "description": ""
+ },
+ {
+  "name": "Rastro",
+  "description": ""
+ },
+ {
+  "name": "Transistor",
+  "description": ""
+ },
+ {
+  "name": "Primer Auxilio",
+  "description": ""
+ },
+ {
+  "name": "Ausente",
+  "description": ""
+ },
+ {
+  "name": "Turbollama",
+  "description": ""
+ },
+ {
+  "name": "Ignorante",
+  "description": ""
+ },
+ {
+  "name": "Liviano",
+  "description": ""
+ },
+ {
+  "name": "Nerviosismo",
+  "description": ""
+ },
+ {
+  "name": "Puño Invisible",
+  "description": ""
+ },
+ {
+  "name": "Tinovictoria",
+  "description": ""
+ },
+ {
+  "name": "Espíritu Vital",
+  "description": ""
+ },
+ {
+  "name": "Absorbe Elec",
+  "description": ""
+ },
+ {
+  "name": "Alma Errante",
+  "description": ""
+ },
+ {
+  "name": "Absorbe Agua",
+  "description": ""
+ },
+ {
+  "name": "Pompa",
+  "description": ""
+ },
+ {
+  "name": "Hidrorrefuerzo",
+  "description": ""
+ },
+ {
+  "name": "Velo Agua",
+  "description": ""
+ },
+ {
+  "name": "Armadura Frágil",
+  "description": ""
+ },
+ {
+  "name": "Cuerpo Horneado",
+  "description": ""
+ },
+ {
+  "name": "Humo Blanco",
+  "description": ""
+ },
+ {
+  "name": "Huida",
+  "description": ""
+ },
+ {
+  "name": "Energía Eólica",
+  "description": ""
+ },
+ {
+  "name": "Surcavientos",
+  "description": ""
+ },
+ {
+  "name": "Superguarda",
+  "description": ""
+ },
+ {
+  "name": "Piel Milagro",
+  "description": ""
+ },
+ {
+  "name": "Modo Daruma",
+  "description": ""
+ },
+ {
+  "name": "Cambio Heroico",
+  "description": ""
+ }
+]

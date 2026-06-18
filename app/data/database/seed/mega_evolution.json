@@ -1,0 +1,542 @@
+[
+ {
+  "base": "Venusaur",
+  "form": "Mega-Venusaur",
+  "stone": "Venusaurita",
+  "era": "classic"
+ },
+ {
+  "base": "Charizard",
+  "form": "Mega-Charizard X",
+  "stone": "Charizardita X",
+  "era": "classic"
+ },
+ {
+  "base": "Charizard",
+  "form": "Mega-Charizard Y",
+  "stone": "Charizardita Y",
+  "era": "classic"
+ },
+ {
+  "base": "Blastoise",
+  "form": "Mega-Blastoise",
+  "stone": "Blastoisita",
+  "era": "classic"
+ },
+ {
+  "base": "Beedrill",
+  "form": "Mega-Beedrill",
+  "stone": "Beedrillita",
+  "era": "classic"
+ },
+ {
+  "base": "Pidgeot",
+  "form": "Mega-Pidgeot",
+  "stone": "Pidgeotita",
+  "era": "classic"
+ },
+ {
+  "base": "Raichu",
+  "form": "Mega-Raichu X",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Raichu",
+  "form": "Mega-Raichu Y",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Clefable",
+  "form": "Mega-Clefable",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Alakazam",
+  "form": "Mega-Alakazam",
+  "stone": "Alakazamita",
+  "era": "classic"
+ },
+ {
+  "base": "Victreebel",
+  "form": "Mega-Victreebel",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Slowbro",
+  "form": "Mega-Slowbro",
+  "stone": "Slowbronita",
+  "era": "classic"
+ },
+ {
+  "base": "Gengar",
+  "form": "Mega-Gengar",
+  "stone": "Gengarita",
+  "era": "classic"
+ },
+ {
+  "base": "Kangaskhan",
+  "form": "Mega-Kangaskhan",
+  "stone": "Kangaskhanita",
+  "era": "classic"
+ },
+ {
+  "base": "Starmie",
+  "form": "Mega-Starmie",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Pinsir",
+  "form": "Mega-Pinsir",
+  "stone": "Pinsirita",
+  "era": "classic"
+ },
+ {
+  "base": "Gyarados",
+  "form": "Mega-Gyarados",
+  "stone": "Gyaradosita",
+  "era": "classic"
+ },
+ {
+  "base": "Aerodactyl",
+  "form": "Mega-Aerodactyl",
+  "stone": "Aerodactylita",
+  "era": "classic"
+ },
+ {
+  "base": "Dragonite",
+  "form": "Mega-Dragonite",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Mewtwo",
+  "form": "Mega-Mewtwo X",
+  "stone": "Mewtwoita X",
+  "era": "classic"
+ },
+ {
+  "base": "Mewtwo",
+  "form": "Mega-Mewtwo Y",
+  "stone": "Mewtwoita Y",
+  "era": "classic"
+ },
+ {
+  "base": "Meganium",
+  "form": "Mega-Meganium",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Feraligatr",
+  "form": "Mega-Feraligatr",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Ampharos",
+  "form": "Mega-Ampharos",
+  "stone": "Ampharosita",
+  "era": "classic"
+ },
+ {
+  "base": "Steelix",
+  "form": "Mega-Steelix",
+  "stone": "Steelixita",
+  "era": "classic"
+ },
+ {
+  "base": "Scizor",
+  "form": "Mega-Scizor",
+  "stone": "Scizorita",
+  "era": "classic"
+ },
+ {
+  "base": "Heracross",
+  "form": "Mega-Heracross",
+  "stone": "Heracrossita",
+  "era": "classic"
+ },
+ {
+  "base": "Skarmory",
+  "form": "Mega-Skarmory",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Houndoom",
+  "form": "Mega-Houndoom",
+  "stone": "Houndoomita",
+  "era": "classic"
+ },
+ {
+  "base": "Tyranitar",
+  "form": "Mega-Tyranitar",
+  "stone": "Tyranitarita",
+  "era": "classic"
+ },
+ {
+  "base": "Sceptile",
+  "form": "Mega-Sceptile",
+  "stone": "Sceptilita",
+  "era": "classic"
+ },
+ {
+  "base": "Blaziken",
+  "form": "Mega-Blaziken",
+  "stone": "Blazikenita",
+  "era": "classic"
+ },
+ {
+  "base": "Swampert",
+  "form": "Mega-Swampert",
+  "stone": "Swampertita",
+  "era": "classic"
+ },
+ {
+  "base": "Gardevoir",
+  "form": "Mega-Gardevoir",
+  "stone": "Gardevoirita",
+  "era": "classic"
+ },
+ {
+  "base": "Sableye",
+  "form": "Mega-Sableye",
+  "stone": "Sableynita",
+  "era": "classic"
+ },
+ {
+  "base": "Mawile",
+  "form": "Mega-Mawile",
+  "stone": "Mawilita",
+  "era": "classic"
+ },
+ {
+  "base": "Aggron",
+  "form": "Mega-Aggron",
+  "stone": "Aggronita",
+  "era": "classic"
+ },
+ {
+  "base": "Medicham",
+  "form": "Mega-Medicham",
+  "stone": "Medichamita",
+  "era": "classic"
+ },
+ {
+  "base": "Manectric",
+  "form": "Mega-Manectric",
+  "stone": "Manectricita",
+  "era": "classic"
+ },
+ {
+  "base": "Sharpedo",
+  "form": "Mega-Sharpedo",
+  "stone": "Sharpedonita",
+  "era": "classic"
+ },
+ {
+  "base": "Camerupt",
+  "form": "Mega-Camerupt",
+  "stone": "Cameruptita",
+  "era": "classic"
+ },
+ {
+  "base": "Altaria",
+  "form": "Mega-Altaria",
+  "stone": "Altarianita",
+  "era": "classic"
+ },
+ {
+  "base": "Banette",
+  "form": "Mega-Banette",
+  "stone": "Banettita",
+  "era": "classic"
+ },
+ {
+  "base": "Chimecho",
+  "form": "Mega-Chimecho",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Absol",
+  "form": "Mega-Absol",
+  "stone": "Absolita",
+  "era": "classic"
+ },
+ {
+  "base": "Glalie",
+  "form": "Mega-Glalie",
+  "stone": "Glalita",
+  "era": "classic"
+ },
+ {
+  "base": "Salamence",
+  "form": "Mega-Salamence",
+  "stone": "Salamencita",
+  "era": "classic"
+ },
+ {
+  "base": "Metagross",
+  "form": "Mega-Metagross",
+  "stone": "Metagrossita",
+  "era": "classic"
+ },
+ {
+  "base": "Latias",
+  "form": "Mega-Latias",
+  "stone": "Latiasita",
+  "era": "classic"
+ },
+ {
+  "base": "Latios",
+  "form": "Mega-Latios",
+  "stone": "Latiosita",
+  "era": "classic"
+ },
+ {
+  "base": "Kyogre",
+  "form": "Kyogre Primigenio",
+  "stone": "",
+  "era": "classic"
+ },
+ {
+  "base": "Groudon",
+  "form": "Groudon Primigenio",
+  "stone": "",
+  "era": "classic"
+ },
+ {
+  "base": "Rayquaza",
+  "form": "Mega-Rayquaza",
+  "stone": "",
+  "era": "classic"
+ },
+ {
+  "base": "Staraptor",
+  "form": "Mega-Staraptor",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Lopunny",
+  "form": "Mega-Lopunny",
+  "stone": "Lopunnita",
+  "era": "classic"
+ },
+ {
+  "base": "Garchomp",
+  "form": "Mega-Garchomp",
+  "stone": "Garchompita",
+  "era": "classic"
+ },
+ {
+  "base": "Lucario",
+  "form": "Mega-Lucario",
+  "stone": "Lucarita",
+  "era": "classic"
+ },
+ {
+  "base": "Abomasnow",
+  "form": "Mega-Abomasnow",
+  "stone": "Abomasnowita",
+  "era": "classic"
+ },
+ {
+  "base": "Gallade",
+  "form": "Mega-Gallade",
+  "stone": "Galladita",
+  "era": "classic"
+ },
+ {
+  "base": "Froslass",
+  "form": "Mega-Froslass",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Heatran",
+  "form": "Mega-Heatran",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Darkrai",
+  "form": "Mega-Darkrai",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Emboar",
+  "form": "Mega-Emboar",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Excadrill",
+  "form": "Mega-Excadrill",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Audino",
+  "form": "Mega-Audino",
+  "stone": "Audinita",
+  "era": "classic"
+ },
+ {
+  "base": "Scolipede",
+  "form": "Mega-Scolipede",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Scrafty",
+  "form": "Mega-Scrafty",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Eelektross",
+  "form": "Mega-Eelektross",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Chandelure",
+  "form": "Mega-Chandelure",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Golurk",
+  "form": "Mega-Golurk",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Chesnaught",
+  "form": "Mega-Chesnaught",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Delphox",
+  "form": "Mega-Delphox",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Greninja",
+  "form": "Mega-Greninja",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Pyroar",
+  "form": "Mega-Pyroar",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Floette",
+  "form": "Mega-Floette",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Malamar",
+  "form": "Mega-Malamar",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Barbaracle",
+  "form": "Mega-Barbaracle",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Dragalge",
+  "form": "Mega-Dragalge",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Hawlucha",
+  "form": "Mega-Hawlucha",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Zygarde",
+  "form": "Mega-Zygarde",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Diancie",
+  "form": "Mega-Diancie",
+  "stone": "Diancita",
+  "era": "classic"
+ },
+ {
+  "base": "Crabominable",
+  "form": "Mega-Crabominable",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Golisopod",
+  "form": "Mega-Golisopod",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Drampa",
+  "form": "Mega-Drampa",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Magearna",
+  "form": "Mega-Magearna",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Zeraora",
+  "form": "Mega-Zeraora",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Falinks",
+  "form": "Mega-Falinks",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Scovillain",
+  "form": "Mega-Scovillain",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Glimmora",
+  "form": "Mega-Glimmora",
+  "stone": "",
+  "era": "za"
+ },
+ {
+  "base": "Baxcalibur",
+  "form": "Mega-Baxcalibur",
+  "stone": "",
+  "era": "za"
+ }
+]

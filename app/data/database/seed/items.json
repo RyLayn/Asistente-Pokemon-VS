@@ -1,0 +1,2326 @@
+[
+ {
+  "name": "Ability Shield",
+  "description": ""
+ },
+ {
+  "name": "Abomasnowita",
+  "description": ""
+ },
+ {
+  "name": "Absolita",
+  "description": ""
+ },
+ {
+  "name": "Absolite Z",
+  "description": ""
+ },
+ {
+  "name": "Tubérculo",
+  "description": ""
+ },
+ {
+  "name": "Adamant Crystal",
+  "description": ""
+ },
+ {
+  "name": "Diamansfera",
+  "description": ""
+ },
+ {
+  "name": "Nerviosfera",
+  "description": ""
+ },
+ {
+  "name": "Aerodactylita",
+  "description": ""
+ },
+ {
+  "name": "Aggronita",
+  "description": ""
+ },
+ {
+  "name": "Baya Guaya",
+  "description": ""
+ },
+ {
+  "name": "Globo Helio",
+  "description": ""
+ },
+ {
+  "name": "Alakazamita",
+  "description": ""
+ },
+ {
+  "name": "Alo-Raistal Z",
+  "description": ""
+ },
+ {
+  "name": "Altarianita",
+  "description": ""
+ },
+ {
+  "name": "Ampharosita",
+  "description": ""
+ },
+ {
+  "name": "Baya Aricoc",
+  "description": ""
+ },
+ {
+  "name": "Fósil Coraza",
+  "description": ""
+ },
+ {
+  "name": "Baya Perasi",
+  "description": ""
+ },
+ {
+  "name": "Chaleco Asalto",
+  "description": ""
+ },
+ {
+  "name": "Audinita",
+  "description": ""
+ },
+ {
+  "name": "Auspicious Armor",
+  "description": ""
+ },
+ {
+  "name": "Baya Baribá",
+  "description": ""
+ },
+ {
+  "name": "Banettita",
+  "description": ""
+ },
+ {
+  "name": "Barbaracite",
+  "description": ""
+ },
+ {
+  "name": "Baxcalibrite",
+  "description": ""
+ },
+ {
+  "name": "Ente Ball",
+  "description": ""
+ },
+ {
+  "name": "Beedrillita",
+  "description": ""
+ },
+ {
+  "name": "Baya Andano",
+  "description": ""
+ },
+ {
+  "name": "Zumo de Baya",
+  "description": ""
+ },
+ {
+  "name": "Confite Fruto",
+  "description": ""
+ },
+ {
+  "name": "Maxipepita",
+  "description": ""
+ },
+ {
+  "name": "Raíz Grande",
+  "description": ""
+ },
+ {
+  "name": "Banda Atadura",
+  "description": ""
+ },
+ {
+  "name": "Cinturón Negro",
+  "description": ""
+ },
+ {
+  "name": "Gafas de Sol",
+  "description": ""
+ },
+ {
+  "name": "Lodo Negro",
+  "description": ""
+ },
+ {
+  "name": "Blastoisita",
+  "description": ""
+ },
+ {
+  "name": "Blazikenita",
+  "description": ""
+ },
+ {
+  "name": "Prisma Azul",
+  "description": ""
+ },
+ {
+  "name": "Baya Oram",
+  "description": ""
+ },
+ {
+  "name": "Seguro Fallo",
+  "description": ""
+ },
+ {
+  "name": "Booster Energy",
+  "description": ""
+ },
+ {
+  "name": "Chapa Plateada",
+  "description": ""
+ },
+ {
+  "name": "Polvo Brillo",
+  "description": ""
+ },
+ {
+  "name": "Gema Bicho",
+  "description": ""
+ },
+ {
+  "name": "Insectostal Z",
+  "description": ""
+ },
+ {
+  "name": "Disco Bicho",
+  "description": ""
+ },
+ {
+  "name": "PiroROM",
+  "description": ""
+ },
+ {
+  "name": "Cameruptita",
+  "description": ""
+ },
+ {
+  "name": "Pila",
+  "description": ""
+ },
+ {
+  "name": "Chandelurite",
+  "description": ""
+ },
+ {
+  "name": "Carbón",
+  "description": ""
+ },
+ {
+  "name": "Charizardita X",
+  "description": ""
+ },
+ {
+  "name": "Charizardita Y",
+  "description": ""
+ },
+ {
+  "name": "Baya Alcho",
+  "description": ""
+ },
+ {
+  "name": "Baya Zreza",
+  "description": ""
+ },
+ {
+  "name": "Gloria Ball",
+  "description": ""
+ },
+ {
+  "name": "Chesnaughtite",
+  "description": ""
+ },
+ {
+  "name": "Baya Atania",
+  "description": ""
+ },
+ {
+  "name": "Baya Chilan",
+  "description": ""
+ },
+ {
+  "name": "CrioROM",
+  "description": ""
+ },
+ {
+  "name": "Chimechite",
+  "description": ""
+ },
+ {
+  "name": "Tetera Rota",
+  "description": ""
+ },
+ {
+  "name": "Cinta Elección",
+  "description": ""
+ },
+ {
+  "name": "Pañuelo Elección",
+  "description": ""
+ },
+ {
+  "name": "Gafas Elección",
+  "description": ""
+ },
+ {
+  "name": "Baya Pomaro",
+  "description": ""
+ },
+ {
+  "name": "Fósil Garra",
+  "description": ""
+ },
+ {
+  "name": "Clear Amulet",
+  "description": ""
+ },
+ {
+  "name": "Clefablite",
+  "description": ""
+ },
+ {
+  "name": "Confite Trébol",
+  "description": ""
+ },
+ {
+  "name": "Baya Kouba",
+  "description": ""
+ },
+ {
+  "name": "Baya Dillo",
+  "description": ""
+ },
+ {
+  "name": "Cornerstone Mask",
+  "description": ""
+ },
+ {
+  "name": "Baya Mais",
+  "description": ""
+ },
+ {
+  "name": "Fósil Tapa",
+  "description": ""
+ },
+ {
+  "name": "Covert Cloak",
+  "description": ""
+ },
+ {
+  "name": "Crabominite",
+  "description": ""
+ },
+ {
+  "name": "Tetera Agrietada",
+  "description": ""
+ },
+ {
+  "name": "Baya Chiri",
+  "description": ""
+ },
+ {
+  "name": "Roca Lluvia",
+  "description": ""
+ },
+ {
+  "name": "Gema Siniestra",
+  "description": ""
+ },
+ {
+  "name": "Nictostal Z",
+  "description": ""
+ },
+ {
+  "name": "Disco Siniestro",
+  "description": ""
+ },
+ {
+  "name": "Darkranite",
+  "description": ""
+ },
+ {
+  "name": "Piedra Alba",
+  "description": ""
+ },
+ {
+  "name": "Dueyestal Z",
+  "description": ""
+ },
+ {
+  "name": "Escama Marina",
+  "description": ""
+ },
+ {
+  "name": "Diente Marino",
+  "description": ""
+ },
+ {
+  "name": "Delphoxite",
+  "description": ""
+ },
+ {
+  "name": "Lazo Destino",
+  "description": ""
+ },
+ {
+  "name": "Diancita",
+  "description": ""
+ },
+ {
+  "name": "Buceo Ball",
+  "description": ""
+ },
+ {
+  "name": "Fósil Domo",
+  "description": ""
+ },
+ {
+  "name": "HidroROM",
+  "description": ""
+ },
+ {
+  "name": "Tabla Draco",
+  "description": ""
+ },
+ {
+  "name": "Dragalgite",
+  "description": ""
+ },
+ {
+  "name": "Colmillo Dragón",
+  "description": ""
+ },
+ {
+  "name": "Gema Dragón",
+  "description": ""
+ },
+ {
+  "name": "Dragoninite",
+  "description": ""
+ },
+ {
+  "name": "Dracostal Z",
+  "description": ""
+ },
+ {
+  "name": "Disco Dragón",
+  "description": ""
+ },
+ {
+  "name": "Escama Dragón",
+  "description": ""
+ },
+ {
+  "name": "Drampanite",
+  "description": ""
+ },
+ {
+  "name": "Tabla Oscura",
+  "description": ""
+ },
+ {
+  "name": "Ensueño Ball",
+  "description": ""
+ },
+ {
+  "name": "Disco Extraño",
+  "description": ""
+ },
+ {
+  "name": "Baya Rudion",
+  "description": ""
+ },
+ {
+  "name": "Ocaso Ball",
+  "description": ""
+ },
+ {
+  "name": "Piedra Noche",
+  "description": ""
+ },
+ {
+  "name": "Tabla Terrax",
+  "description": ""
+ },
+ {
+  "name": "Eelektrossite",
+  "description": ""
+ },
+ {
+  "name": "Eeveestal Z",
+  "description": ""
+ },
+ {
+  "name": "Botón Escape",
+  "description": ""
+ },
+ {
+  "name": "Mochila Escape",
+  "description": ""
+ },
+ {
+  "name": "Electrizador",
+  "description": ""
+ },
+ {
+  "name": "Gema Eléctrica",
+  "description": ""
+ },
+ {
+  "name": "Disco Eléctrico",
+  "description": ""
+ },
+ {
+  "name": "Semilla Electro",
+  "description": ""
+ },
+ {
+  "name": "Electrostal Z",
+  "description": ""
+ },
+ {
+  "name": "Emboarite",
+  "description": ""
+ },
+ {
+  "name": "Baya Enigma",
+  "description": ""
+ },
+ {
+  "name": "Mineral Evol",
+  "description": ""
+ },
+ {
+  "name": "Excadrite",
+  "description": ""
+ },
+ {
+  "name": "Cinta Experto",
+  "description": ""
+ },
+ {
+  "name": "Feeristal Z",
+  "description": ""
+ },
+ {
+  "name": "Fairy Feather",
+  "description": ""
+ },
+ {
+  "name": "Gema Hada",
+  "description": ""
+ },
+ {
+  "name": "Disco Hada",
+  "description": ""
+ },
+ {
+  "name": "Falinksite",
+  "description": ""
+ },
+ {
+  "name": "Rapid Ball",
+  "description": ""
+ },
+ {
+  "name": "Feraligite",
+  "description": ""
+ },
+ {
+  "name": "Gema Lucha",
+  "description": ""
+ },
+ {
+  "name": "Disco Lucha",
+  "description": ""
+ },
+ {
+  "name": "Lizastal Z",
+  "description": ""
+ },
+ {
+  "name": "Baya Higog",
+  "description": ""
+ },
+ {
+  "name": "Gema Fuego",
+  "description": ""
+ },
+ {
+  "name": "Disco Fuego",
+  "description": ""
+ },
+ {
+  "name": "Piedra Fuego",
+  "description": ""
+ },
+ {
+  "name": "Pirostal Z",
+  "description": ""
+ },
+ {
+  "name": "Tabla Fuerte",
+  "description": ""
+ },
+ {
+  "name": "Llamasfera",
+  "description": ""
+ },
+ {
+  "name": "Tabla Llama",
+  "description": ""
+ },
+ {
+  "name": "Piedra Pómez",
+  "description": ""
+ },
+ {
+  "name": "Floettite",
+  "description": ""
+ },
+ {
+  "name": "Confite Flor",
+  "description": ""
+ },
+ {
+  "name": "Gema Voladora",
+  "description": ""
+ },
+ {
+  "name": "Disco Volador",
+  "description": ""
+ },
+ {
+  "name": "Aerostal Z",
+  "description": ""
+ },
+ {
+  "name": "Cinta Focus",
+  "description": ""
+ },
+ {
+  "name": "Banda Focus",
+  "description": ""
+ },
+ {
+  "name": "Ornitofósil",
+  "description": ""
+ },
+ {
+  "name": "Plesiofósil",
+  "description": ""
+ },
+ {
+  "name": "Dracofósil",
+  "description": ""
+ },
+ {
+  "name": "Ictiofósil",
+  "description": ""
+ },
+ {
+  "name": "Amigo Ball",
+  "description": ""
+ },
+ {
+  "name": "Froslassite",
+  "description": ""
+ },
+ {
+  "name": "Incienso Lento",
+  "description": ""
+ },
+ {
+  "name": "Brazal Galanuez",
+  "description": ""
+ },
+ {
+  "name": "Corona Galanuez",
+  "description": ""
+ },
+ {
+  "name": "Galladita",
+  "description": ""
+ },
+ {
+  "name": "Baya Gonlan",
+  "description": ""
+ },
+ {
+  "name": "Garchompita",
+  "description": ""
+ },
+ {
+  "name": "Garchompite Z",
+  "description": ""
+ },
+ {
+  "name": "Gardevoirita",
+  "description": ""
+ },
+ {
+  "name": "Gengarita",
+  "description": ""
+ },
+ {
+  "name": "Gema Fantasma",
+  "description": ""
+ },
+ {
+  "name": "Espectrostal Z",
+  "description": ""
+ },
+ {
+  "name": "Disco Fantasma",
+  "description": ""
+ },
+ {
+  "name": "Glalita",
+  "description": ""
+ },
+ {
+  "name": "Glimmoranite",
+  "description": ""
+ },
+ {
+  "name": "Chapa Dorada",
+  "description": ""
+ },
+ {
+  "name": "Golisopite",
+  "description": ""
+ },
+ {
+  "name": "Golurkite",
+  "description": ""
+ },
+ {
+  "name": "Gema Planta",
+  "description": ""
+ },
+ {
+  "name": "Fitostal Z",
+  "description": ""
+ },
+ {
+  "name": "Disco Planta",
+  "description": ""
+ },
+ {
+  "name": "Semilla Hierba",
+  "description": ""
+ },
+ {
+  "name": "Super Ball",
+  "description": ""
+ },
+ {
+  "name": "Greninjite",
+  "description": ""
+ },
+ {
+  "name": "Baya Uvav",
+  "description": ""
+ },
+ {
+  "name": "Garra Garfio",
+  "description": ""
+ },
+ {
+  "name": "Griseous Core",
+  "description": ""
+ },
+ {
+  "name": "Griseosfera",
+  "description": ""
+ },
+ {
+  "name": "Gema Tierra",
+  "description": ""
+ },
+ {
+  "name": "Geostal Z",
+  "description": ""
+ },
+ {
+  "name": "Disco Tierra",
+  "description": ""
+ },
+ {
+  "name": "Gyaradosita",
+  "description": ""
+ },
+ {
+  "name": "Baya Anjiro",
+  "description": ""
+ },
+ {
+  "name": "Piedra Dura",
+  "description": ""
+ },
+ {
+  "name": "Hawluchanite",
+  "description": ""
+ },
+ {
+  "name": "Sana Ball",
+  "description": ""
+ },
+ {
+  "name": "Hearthflame Mask",
+  "description": ""
+ },
+ {
+  "name": "Heatranite",
+  "description": ""
+ },
+ {
+  "name": "Roca Calor",
+  "description": ""
+ },
+ {
+  "name": "Peso Ball",
+  "description": ""
+ },
+ {
+  "name": "Botas Gruesas",
+  "description": ""
+ },
+ {
+  "name": "Fósil Hélix",
+  "description": ""
+ },
+ {
+  "name": "Heracrossita",
+  "description": ""
+ },
+ {
+  "name": "Baya Meluce",
+  "description": ""
+ },
+ {
+  "name": "Houndoomita",
+  "description": ""
+ },
+ {
+  "name": "Baya Pabaya",
+  "description": ""
+ },
+ {
+  "name": "Gema Hielo",
+  "description": ""
+ },
+ {
+  "name": "Disco Hielo",
+  "description": ""
+ },
+ {
+  "name": "Piedra Hielo",
+  "description": ""
+ },
+ {
+  "name": "Tabla Helada",
+  "description": ""
+ },
+ {
+  "name": "Criostal Z",
+  "description": ""
+ },
+ {
+  "name": "Roca Helada",
+  "description": ""
+ },
+ {
+  "name": "Incinostal Z",
+  "description": ""
+ },
+ {
+  "name": "Tabla Bicho",
+  "description": ""
+ },
+ {
+  "name": "Bola Férrea",
+  "description": ""
+ },
+ {
+  "name": "Tabla Acero",
+  "description": ""
+ },
+ {
+  "name": "Baya Jaboca",
+  "description": ""
+ },
+ {
+  "name": "Fósil Mandíbula",
+  "description": ""
+ },
+ {
+  "name": "Kangaskhanita",
+  "description": ""
+ },
+ {
+  "name": "Baya Drasi",
+  "description": ""
+ },
+ {
+  "name": "Baya Kebia",
+  "description": ""
+ },
+ {
+  "name": "Baya Biglia",
+  "description": ""
+ },
+ {
+  "name": "Baya Algama",
+  "description": ""
+ },
+ {
+  "name": "Roca del Rey",
+  "description": ""
+ },
+ {
+  "name": "Kommostal Z",
+  "description": ""
+ },
+ {
+  "name": "Cola Plúmbea",
+  "description": ""
+ },
+ {
+  "name": "Baya Zonlan",
+  "description": ""
+ },
+ {
+  "name": "Latiasita",
+  "description": ""
+ },
+ {
+  "name": "Latiosita",
+  "description": ""
+ },
+ {
+  "name": "Incienso Suave",
+  "description": ""
+ },
+ {
+  "name": "Piedra Hoja",
+  "description": ""
+ },
+ {
+  "name": "Puerro",
+  "description": ""
+ },
+ {
+  "name": "Restos",
+  "description": ""
+ },
+ {
+  "name": "Baya Zanama",
+  "description": ""
+ },
+ {
+  "name": "Nivel Ball",
+  "description": ""
+ },
+ {
+  "name": "Baya Lichi",
+  "description": ""
+ },
+ {
+  "name": "Vidasfera",
+  "description": ""
+ },
+ {
+  "name": "Bola Luminosa",
+  "description": ""
+ },
+ {
+  "name": "Refleluz",
+  "description": ""
+ },
+ {
+  "name": "Loaded Dice",
+  "description": ""
+ },
+ {
+  "name": "Lopunnita",
+  "description": ""
+ },
+ {
+  "name": "Amor Ball",
+  "description": ""
+ },
+ {
+  "name": "Confite Corazón",
+  "description": ""
+ },
+ {
+  "name": "Lucarita",
+  "description": ""
+ },
+ {
+  "name": "Lucarionite Z",
+  "description": ""
+ },
+ {
+  "name": "Puño Suerte",
+  "description": ""
+ },
+ {
+  "name": "Baya Ziuela",
+  "description": ""
+ },
+ {
+  "name": "Musgo Brillante",
+  "description": ""
+ },
+ {
+  "name": "Lunalastal Z",
+  "description": ""
+ },
+ {
+  "name": "Cebo Ball",
+  "description": ""
+ },
+ {
+  "name": "Lustrous Globe",
+  "description": ""
+ },
+ {
+  "name": "Lustresfera",
+  "description": ""
+ },
+ {
+  "name": "Lujo Ball",
+  "description": ""
+ },
+ {
+  "name": "Lycanrostal Z",
+  "description": ""
+ },
+ {
+  "name": "Brazal Firme",
+  "description": ""
+ },
+ {
+  "name": "Magearnite",
+  "description": ""
+ },
+ {
+  "name": "Magmatizador",
+  "description": ""
+ },
+ {
+  "name": "Imán",
+  "description": ""
+ },
+ {
+  "name": "Baya Ango",
+  "description": ""
+ },
+ {
+  "name": "Baya Aostan",
+  "description": ""
+ },
+ {
+  "name": "Mail",
+  "description": ""
+ },
+ {
+  "name": "Malamarite",
+  "description": ""
+ },
+ {
+  "name": "Malicious Armor",
+  "description": ""
+ },
+ {
+  "name": "Manectricita",
+  "description": ""
+ },
+ {
+  "name": "Baya Maranga",
+  "description": ""
+ },
+ {
+  "name": "Marshastal Z",
+  "description": ""
+ },
+ {
+  "name": "Master Ball",
+  "description": ""
+ },
+ {
+  "name": "Masterpiece Teacup",
+  "description": ""
+ },
+ {
+  "name": "Mawilita",
+  "description": ""
+ },
+ {
+  "name": "Tabla Pradal",
+  "description": ""
+ },
+ {
+  "name": "Medichamita",
+  "description": ""
+ },
+ {
+  "name": "Meganiumite",
+  "description": ""
+ },
+ {
+  "name": "Hierba Mental",
+  "description": ""
+ },
+ {
+  "name": "Meowsticite",
+  "description": ""
+ },
+ {
+  "name": "Metagrossita",
+  "description": ""
+ },
+ {
+  "name": "Metal Alloy",
+  "description": ""
+ },
+ {
+  "name": "Revest. Metálico",
+  "description": ""
+ },
+ {
+  "name": "Polvo Metálico",
+  "description": ""
+ },
+ {
+  "name": "Metrónomo",
+  "description": ""
+ },
+ {
+  "name": "Mewstal Z",
+  "description": ""
+ },
+ {
+  "name": "Mewtwoita X",
+  "description": ""
+ },
+ {
+  "name": "Mewtwoita Y",
+  "description": ""
+ },
+ {
+  "name": "Baya Lagro",
+  "description": ""
+ },
+ {
+  "name": "Mimikyustal Z",
+  "description": ""
+ },
+ {
+  "name": "Tabla Mental",
+  "description": ""
+ },
+ {
+  "name": "Semilla Milagro",
+  "description": ""
+ },
+ {
+  "name": "Mirror Herb",
+  "description": ""
+ },
+ {
+  "name": "Semilla Bruma",
+  "description": ""
+ },
+ {
+  "name": "Luna Ball",
+  "description": ""
+ },
+ {
+  "name": "Piedra Lunar",
+  "description": ""
+ },
+ {
+  "name": "Cinta Fuerte",
+  "description": ""
+ },
+ {
+  "name": "Agua Mística",
+  "description": ""
+ },
+ {
+  "name": "Baya Latano",
+  "description": ""
+ },
+ {
+  "name": "Nido Ball",
+  "description": ""
+ },
+ {
+  "name": "Malla Ball",
+  "description": ""
+ },
+ {
+  "name": "Antiderretir",
+  "description": ""
+ },
+ {
+  "name": "Baya Monli",
+  "description": ""
+ },
+ {
+  "name": "Gema Normal",
+  "description": ""
+ },
+ {
+  "name": "Normastal Z",
+  "description": ""
+ },
+ {
+  "name": "Baya Caoca",
+  "description": ""
+ },
+ {
+  "name": "Incienso Raro",
+  "description": ""
+ },
+ {
+  "name": "Ámbar Viejo",
+  "description": ""
+ },
+ {
+  "name": "Baya Aranja",
+  "description": ""
+ },
+ {
+  "name": "Piedra Oval",
+  "description": ""
+ },
+ {
+  "name": "Baya Plama",
+  "description": ""
+ },
+ {
+  "name": "Parque Ball",
+  "description": ""
+ },
+ {
+  "name": "Baya Pasio",
+  "description": ""
+ },
+ {
+  "name": "Baya Payapa",
+  "description": ""
+ },
+ {
+  "name": "Baya Meloc",
+  "description": ""
+ },
+ {
+  "name": "Baya Caquic",
+  "description": ""
+ },
+ {
+  "name": "Baya Yapati",
+  "description": ""
+ },
+ {
+  "name": "Pidgeotita",
+  "description": ""
+ },
+ {
+  "name": "Pikastal Z",
+  "description": ""
+ },
+ {
+  "name": "Ash-Pikastal Z",
+  "description": ""
+ },
+ {
+  "name": "Baya Pinia",
+  "description": ""
+ },
+ {
+  "name": "Pinsirita",
+  "description": ""
+ },
+ {
+  "name": "Tabla Duende",
+  "description": ""
+ },
+ {
+  "name": "Fósil Pluma",
+  "description": ""
+ },
+ {
+  "name": "Flecha Venenosa",
+  "description": ""
+ },
+ {
+  "name": "Gema Veneno",
+  "description": ""
+ },
+ {
+  "name": "Toxistal Z",
+  "description": ""
+ },
+ {
+  "name": "Disco Veneno",
+  "description": ""
+ },
+ {
+  "name": "Poke Ball",
+  "description": ""
+ },
+ {
+  "name": "Baya Grana",
+  "description": ""
+ },
+ {
+  "name": "Franja Recia",
+  "description": ""
+ },
+ {
+  "name": "Banda Recia",
+  "description": ""
+ },
+ {
+  "name": "Cinto Recio",
+  "description": ""
+ },
+ {
+  "name": "Brazal Recio",
+  "description": ""
+ },
+ {
+  "name": "Hierba Única",
+  "description": ""
+ },
+ {
+  "name": "Lente Recia",
+  "description": ""
+ },
+ {
+  "name": "Pesa Recia",
+  "description": ""
+ },
+ {
+  "name": "Honor Ball",
+  "description": ""
+ },
+ {
+  "name": "Pluma Bella",
+  "description": ""
+ },
+ {
+  "name": "Primastal Z",
+  "description": ""
+ },
+ {
+  "name": "Escama Bella",
+  "description": ""
+ },
+ {
+  "name": "Paracontacto",
+  "description": ""
+ },
+ {
+  "name": "Protector",
+  "description": ""
+ },
+ {
+  "name": "Gema Psíquica",
+  "description": ""
+ },
+ {
+  "name": "Disco Psíquico",
+  "description": ""
+ },
+ {
+  "name": "Semilla Psique",
+  "description": ""
+ },
+ {
+  "name": "Psicostal Z",
+  "description": ""
+ },
+ {
+  "name": "Punching Glove",
+  "description": ""
+ },
+ {
+  "name": "Pyroarite",
+  "description": ""
+ },
+ {
+  "name": "Baya Ispero",
+  "description": ""
+ },
+ {
+  "name": "Veloz Ball",
+  "description": ""
+ },
+ {
+  "name": "Garra Rápida",
+  "description": ""
+ },
+ {
+  "name": "Polvo Veloz",
+  "description": ""
+ },
+ {
+  "name": "Baya Rautan",
+  "description": ""
+ },
+ {
+  "name": "Raichunite X",
+  "description": ""
+ },
+ {
+  "name": "Raichunite Y",
+  "description": ""
+ },
+ {
+  "name": "Hueso Raro",
+  "description": ""
+ },
+ {
+  "name": "Baya Safre",
+  "description": ""
+ },
+ {
+  "name": "Garra Afilada",
+  "description": ""
+ },
+ {
+  "name": "Colmillo Agudo",
+  "description": ""
+ },
+ {
+  "name": "Baya Frambu",
+  "description": ""
+ },
+ {
+  "name": "Tela Terrible",
+  "description": ""
+ },
+ {
+  "name": "Tarjeta Roja",
+  "description": ""
+ },
+ {
+  "name": "Prisma Rojo",
+  "description": ""
+ },
+ {
+  "name": "Acopio Ball",
+  "description": ""
+ },
+ {
+  "name": "Confite Lazo",
+  "description": ""
+ },
+ {
+  "name": "Baya Tamar",
+  "description": ""
+ },
+ {
+  "name": "Blanco",
+  "description": ""
+ },
+ {
+  "name": "Gema Roca",
+  "description": ""
+ },
+ {
+  "name": "Incienso Roca",
+  "description": ""
+ },
+ {
+  "name": "Litostal Z",
+  "description": ""
+ },
+ {
+  "name": "Disco Roca",
+  "description": ""
+ },
+ {
+  "name": "Casco Dentado",
+  "description": ""
+ },
+ {
+  "name": "Servicio Raro",
+  "description": ""
+ },
+ {
+  "name": "Fósil Raíz",
+  "description": ""
+ },
+ {
+  "name": "Incienso Floral",
+  "description": ""
+ },
+ {
+  "name": "Baya Hibis",
+  "description": ""
+ },
+ {
+  "name": "Baya Magua",
+  "description": ""
+ },
+ {
+  "name": "Escudo Oxidado",
+  "description": ""
+ },
+ {
+  "name": "Espada Oxidada",
+  "description": ""
+ },
+ {
+  "name": "Sableynita",
+  "description": ""
+ },
+ {
+  "name": "Saquito Fragante",
+  "description": ""
+ },
+ {
+  "name": "Safari Ball",
+  "description": ""
+ },
+ {
+  "name": "Gafa Protectora",
+  "description": ""
+ },
+ {
+  "name": "Fósil Aleta",
+  "description": ""
+ },
+ {
+  "name": "Baya Aslac",
+  "description": ""
+ },
+ {
+  "name": "Salamencita",
+  "description": ""
+ },
+ {
+  "name": "Sceptilita",
+  "description": ""
+ },
+ {
+  "name": "Scizorita",
+  "description": ""
+ },
+ {
+  "name": "Scolipite",
+  "description": ""
+ },
+ {
+  "name": "Periscopio",
+  "description": ""
+ },
+ {
+  "name": "Scovillainite",
+  "description": ""
+ },
+ {
+  "name": "Scraftinite",
+  "description": ""
+ },
+ {
+  "name": "Incienso Marino",
+  "description": ""
+ },
+ {
+  "name": "Pico Afilado",
+  "description": ""
+ },
+ {
+  "name": "Sharpedonita",
+  "description": ""
+ },
+ {
+  "name": "Muda Concha",
+  "description": ""
+ },
+ {
+  "name": "Cascabel Concha",
+  "description": ""
+ },
+ {
+  "name": "Piedra Día",
+  "description": ""
+ },
+ {
+  "name": "FulgoROM",
+  "description": ""
+ },
+ {
+  "name": "Baya Acardo",
+  "description": ""
+ },
+ {
+  "name": "Pañuelo de Seda",
+  "description": ""
+ },
+ {
+  "name": "Polvo Plata",
+  "description": ""
+ },
+ {
+  "name": "Baya Zidra",
+  "description": ""
+ },
+ {
+  "name": "Skarmorite",
+  "description": ""
+ },
+ {
+  "name": "Fósil Cráneo",
+  "description": ""
+ },
+ {
+  "name": "Tabla Cielo",
+  "description": ""
+ },
+ {
+  "name": "Slowbronita",
+  "description": ""
+ },
+ {
+  "name": "Roca Suave",
+  "description": ""
+ },
+ {
+  "name": "Snorlastal Z",
+  "description": ""
+ },
+ {
+  "name": "Bola de Nieve",
+  "description": ""
+ },
+ {
+  "name": "Arena Fina",
+  "description": ""
+ },
+ {
+  "name": "Solgaleostal Z",
+  "description": ""
+ },
+ {
+  "name": "Rocío Bondad",
+  "description": ""
+ },
+ {
+  "name": "Hechizo",
+  "description": ""
+ },
+ {
+  "name": "Baya Wikano",
+  "description": ""
+ },
+ {
+  "name": "Tabla Linfa",
+  "description": ""
+ },
+ {
+  "name": "Tabla Terror",
+  "description": ""
+ },
+ {
+  "name": "Competi Ball",
+  "description": ""
+ },
+ {
+  "name": "Staraptite",
+  "description": ""
+ },
+ {
+  "name": "Baya Arabol",
+  "description": ""
+ },
+ {
+  "name": "Starminite",
+  "description": ""
+ },
+ {
+  "name": "Confite Estrella",
+  "description": ""
+ },
+ {
+  "name": "Gema Acero",
+  "description": ""
+ },
+ {
+  "name": "Metalostal Z",
+  "description": ""
+ },
+ {
+  "name": "Steelixita",
+  "description": ""
+ },
+ {
+  "name": "Disco Acero",
+  "description": ""
+ },
+ {
+  "name": "Stick",
+  "description": ""
+ },
+ {
+  "name": "Toxiestrella",
+  "description": ""
+ },
+ {
+  "name": "Tabla Pétrea",
+  "description": ""
+ },
+ {
+  "name": "Strange Ball",
+  "description": ""
+ },
+ {
+  "name": "Confite Fresa",
+  "description": ""
+ },
+ {
+  "name": "Piedra Solar",
+  "description": ""
+ },
+ {
+  "name": "Swampertita",
+  "description": ""
+ },
+ {
+  "name": "Manzana Dulce",
+  "description": ""
+ },
+ {
+  "name": "Syrupy Apple",
+  "description": ""
+ },
+ {
+  "name": "Baya Tamate",
+  "description": ""
+ },
+ {
+  "name": "Baya Yecana",
+  "description": ""
+ },
+ {
+  "name": "Tapistal Z",
+  "description": ""
+ },
+ {
+  "name": "Manzana Ácida",
+  "description": ""
+ },
+ {
+  "name": "Tatsugirinite",
+  "description": ""
+ },
+ {
+  "name": "Cubresuelos",
+  "description": ""
+ },
+ {
+  "name": "Hueso Grueso",
+  "description": ""
+ },
+ {
+  "name": "Espray Bucal",
+  "description": ""
+ },
+ {
+  "name": "Piedra Trueno",
+  "description": ""
+ },
+ {
+  "name": "Turno Ball",
+  "description": ""
+ },
+ {
+  "name": "Toxisfera",
+  "description": ""
+ },
+ {
+  "name": "Tabla Tóxica",
+  "description": ""
+ },
+ {
+  "name": "DT00",
+  "description": ""
+ },
+ {
+  "name": "DT01",
+  "description": ""
+ },
+ {
+  "name": "DT02",
+  "description": ""
+ },
+ {
+  "name": "DT03",
+  "description": ""
+ },
+ {
+  "name": "DT04",
+  "description": ""
+ },
+ {
+  "name": "DT05",
+  "description": ""
+ },
+ {
+  "name": "DT06",
+  "description": ""
+ },
+ {
+  "name": "DT07",
+  "description": ""
+ },
+ {
+  "name": "DT08",
+  "description": ""
+ },
+ {
+  "name": "DT09",
+  "description": ""
+ },
+ {
+  "name": "DT10",
+  "description": ""
+ },
+ {
+  "name": "DT11",
+  "description": ""
+ },
+ {
+  "name": "DT12",
+  "description": ""
+ },
+ {
+  "name": "DT13",
+  "description": ""
+ },
+ {
+  "name": "DT14",
+  "description": ""
+ },
+ {
+  "name": "DT15",
+  "description": ""
+ },
+ {
+  "name": "DT16",
+  "description": ""
+ },
+ {
+  "name": "DT17",
+  "description": ""
+ },
+ {
+  "name": "DT18",
+  "description": ""
+ },
+ {
+  "name": "DT19",
+  "description": ""
+ },
+ {
+  "name": "DT20",
+  "description": ""
+ },
+ {
+  "name": "DT21",
+  "description": ""
+ },
+ {
+  "name": "DT22",
+  "description": ""
+ },
+ {
+  "name": "DT23",
+  "description": ""
+ },
+ {
+  "name": "DT24",
+  "description": ""
+ },
+ {
+  "name": "DT25",
+  "description": ""
+ },
+ {
+  "name": "DT26",
+  "description": ""
+ },
+ {
+  "name": "DT27",
+  "description": ""
+ },
+ {
+  "name": "DT28",
+  "description": ""
+ },
+ {
+  "name": "DT29",
+  "description": ""
+ },
+ {
+  "name": "DT30",
+  "description": ""
+ },
+ {
+  "name": "DT31",
+  "description": ""
+ },
+ {
+  "name": "DT32",
+  "description": ""
+ },
+ {
+  "name": "DT33",
+  "description": ""
+ },
+ {
+  "name": "DT34",
+  "description": ""
+ },
+ {
+  "name": "DT35",
+  "description": ""
+ },
+ {
+  "name": "DT36",
+  "description": ""
+ },
+ {
+  "name": "DT37",
+  "description": ""
+ },
+ {
+  "name": "DT38",
+  "description": ""
+ },
+ {
+  "name": "DT39",
+  "description": ""
+ },
+ {
+  "name": "DT40",
+  "description": ""
+ },
+ {
+  "name": "DT41",
+  "description": ""
+ },
+ {
+  "name": "DT42",
+  "description": ""
+ },
+ {
+  "name": "DT43",
+  "description": ""
+ },
+ {
+  "name": "DT44",
+  "description": ""
+ },
+ {
+  "name": "DT45",
+  "description": ""
+ },
+ {
+  "name": "DT46",
+  "description": ""
+ },
+ {
+  "name": "DT47",
+  "description": ""
+ },
+ {
+  "name": "DT48",
+  "description": ""
+ },
+ {
+  "name": "DT49",
+  "description": ""
+ },
+ {
+  "name": "DT50",
+  "description": ""
+ },
+ {
+  "name": "DT51",
+  "description": ""
+ },
+ {
+  "name": "DT52",
+  "description": ""
+ },
+ {
+  "name": "DT53",
+  "description": ""
+ },
+ {
+  "name": "DT54",
+  "description": ""
+ },
+ {
+  "name": "DT55",
+  "description": ""
+ },
+ {
+  "name": "DT56",
+  "description": ""
+ },
+ {
+  "name": "DT57",
+  "description": ""
+ },
+ {
+  "name": "DT58",
+  "description": ""
+ },
+ {
+  "name": "DT59",
+  "description": ""
+ },
+ {
+  "name": "DT60",
+  "description": ""
+ },
+ {
+  "name": "DT61",
+  "description": ""
+ },
+ {
+  "name": "DT62",
+  "description": ""
+ },
+ {
+  "name": "DT63",
+  "description": ""
+ },
+ {
+  "name": "DT64",
+  "description": ""
+ },
+ {
+  "name": "DT65",
+  "description": ""
+ },
+ {
+  "name": "DT66",
+  "description": ""
+ },
+ {
+  "name": "DT67",
+  "description": ""
+ },
+ {
+  "name": "DT68",
+  "description": ""
+ },
+ {
+  "name": "DT69",
+  "description": ""
+ },
+ {
+  "name": "DT70",
+  "description": ""
+ },
+ {
+  "name": "DT71",
+  "description": ""
+ },
+ {
+  "name": "DT72",
+  "description": ""
+ },
+ {
+  "name": "DT73",
+  "description": ""
+ },
+ {
+  "name": "DT74",
+  "description": ""
+ },
+ {
+  "name": "DT75",
+  "description": ""
+ },
+ {
+  "name": "DT76",
+  "description": ""
+ },
+ {
+  "name": "DT77",
+  "description": ""
+ },
+ {
+  "name": "DT78",
+  "description": ""
+ },
+ {
+  "name": "DT79",
+  "description": ""
+ },
+ {
+  "name": "DT80",
+  "description": ""
+ },
+ {
+  "name": "DT81",
+  "description": ""
+ },
+ {
+  "name": "DT82",
+  "description": ""
+ },
+ {
+  "name": "DT83",
+  "description": ""
+ },
+ {
+  "name": "DT84",
+  "description": ""
+ },
+ {
+  "name": "DT85",
+  "description": ""
+ },
+ {
+  "name": "DT86",
+  "description": ""
+ },
+ {
+  "name": "DT87",
+  "description": ""
+ },
+ {
+  "name": "DT88",
+  "description": ""
+ },
+ {
+  "name": "DT89",
+  "description": ""
+ },
+ {
+  "name": "DT90",
+  "description": ""
+ },
+ {
+  "name": "DT91",
+  "description": ""
+ },
+ {
+  "name": "DT92",
+  "description": ""
+ },
+ {
+  "name": "DT93",
+  "description": ""
+ },
+ {
+  "name": "DT94",
+  "description": ""
+ },
+ {
+  "name": "DT95",
+  "description": ""
+ },
+ {
+  "name": "DT96",
+  "description": ""
+ },
+ {
+  "name": "DT97",
+  "description": ""
+ },
+ {
+  "name": "DT98",
+  "description": ""
+ },
+ {
+  "name": "DT99",
+  "description": ""
+ },
+ {
+  "name": "Cuchara Torcida",
+  "description": ""
+ },
+ {
+  "name": "Tyranitarita",
+  "description": ""
+ },
+ {
+  "name": "Ultra Ball",
+  "description": ""
+ },
+ {
+  "name": "Ultranecrostal Z",
+  "description": ""
+ },
+ {
+  "name": "Unremarkable Teacup",
+  "description": ""
+ },
+ {
+  "name": "Mejora",
+  "description": ""
+ },
+ {
+  "name": "Parasol Multiuso",
+  "description": ""
+ },
+ {
+  "name": "Venusaurita",
+  "description": ""
+ },
+ {
+  "name": "Victreebelite",
+  "description": ""
+ },
+ {
+  "name": "Baya Gualot",
+  "description": ""
+ },
+ {
+  "name": "Gema Agua",
+  "description": ""
+ },
+ {
+  "name": "Hidrostal Z",
+  "description": ""
+ },
+ {
+  "name": "Disco Agua",
+  "description": ""
+ },
+ {
+  "name": "Piedra Agua",
+  "description": ""
+ },
+ {
+  "name": "Baya Sambia",
+  "description": ""
+ },
+ {
+  "name": "Incienso Acua",
+  "description": ""
+ },
+ {
+  "name": "Seguro Debilidad",
+  "description": ""
+ },
+ {
+  "name": "Wellspring Mask",
+  "description": ""
+ },
+ {
+  "name": "Baya Peragu",
+  "description": ""
+ },
+ {
+  "name": "Dulce de Nata",
+  "description": ""
+ },
+ {
+  "name": "Hierba Blanca",
+  "description": ""
+ },
+ {
+  "name": "Lupa",
+  "description": ""
+ },
+ {
+  "name": "Baya Wiki",
+  "description": ""
+ },
+ {
+  "name": "Gafas Especiales",
+  "description": ""
+ },
+ {
+  "name": "Baya Rimoya",
+  "description": ""
+ },
+ {
+  "name": "Tabla Trueno",
+  "description": ""
+ },
+ {
+  "name": "Zeraorite",
+  "description": ""
+ },
+ {
+  "name": "Telescopio",
+  "description": ""
+ },
+ {
+  "name": "Zygardite",
+  "description": ""
+ },
+ {
+  "name": "Berry",
+  "description": ""
+ },
+ {
+  "name": "Berserk Gene",
+  "description": ""
+ },
+ {
+  "name": "Bitter Berry",
+  "description": ""
+ },
+ {
+  "name": "Burnt Berry",
+  "description": ""
+ },
+ {
+  "name": "Gold Berry",
+  "description": ""
+ },
+ {
+  "name": "Ice Berry",
+  "description": ""
+ },
+ {
+  "name": "Mint Berry",
+  "description": ""
+ },
+ {
+  "name": "Miracle Berry",
+  "description": ""
+ },
+ {
+  "name": "Mystery Berry",
+  "description": ""
+ },
+ {
+  "name": "Pink Bow",
+  "description": ""
+ },
+ {
+  "name": "Polkadot Bow",
+  "description": ""
+ },
+ {
+  "name": "PRZ Cure Berry",
+  "description": ""
+ },
+ {
+  "name": "PSN Cure Berry",
+  "description": ""
+ }
+]

@@ -1,0 +1,31 @@
+{
+  "_comment": "Correcciones de nombres en español de España: arregla truncamientos de la fuente y traduce movimientos recientes (Hisui/Gen 9) que la fuente dejó en inglés. La clave es el nombre tal como llega (inglés de respaldo o truncado); el valor es el nombre correcto en español. Amplía esta lista para traducir más.",
+  "fix": {
+    "moves": {
+      "Placaje Eléc": "Placaje Eléctrico",
+      "Represión Metal": "Represión Metálica",
+      "Foco Resplandor": "Cañón Resplandor",
+      "Trailblaze": "Abrecaminos",
+      "Tera Blast": "Teraexplosión",
+      "Salt Cure": "Salazón",
+      "Flower Trick": "Truco Floral",
+      "Triple Dive": "Triple Inmersión",
+      "Revival Blessing": "Plegaria Vital",
+      "Mystical Power": "Poder Místico",
+      "Victory Dance": "Danza Triunfal",
+      "Stone Axe": "Hacha Pétrea",
+      "Dire Claw": "Zarpa Nociva",
+      "Psyshield Bash": "Asalto Barrera",
+      "Ceaseless Edge": "Tajo Metódico",
+      "Triple Arrows": "Triple Flecha",
+      "Power Shift": "Cambio de Fuerza",
+      "Spicy Extract": "Extracto Picante",
+      "Ice Spinner": "Trompo Gélido",
+      "Snowscape": "Nevada",
+      "Aqua Step": "Danza Acuática"
+    },
+    "abilities": {
+      "Foco Interno": "Fuerza Mental"
+    }
+  }
+}

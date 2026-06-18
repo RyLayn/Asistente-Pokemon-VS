@@ -1,0 +1,16 @@
+{
+  "_comment": "Equivalencias español de España -> español de Latinoamérica. La clave es el nombre de España (tal como aparece en la base). Ampliable: añade aquí más pares y funcionarán en búsqueda y al cambiar de idioma.",
+  "moves": {
+    "Carantoña": "Juego Rudo",
+    "Esfera Aural": "Aura Esfera",
+    "Trampa Rocas": "Trampa de Rocas",
+    "Placaje Eléctrico": "Tacleada de Voltios",
+    "Represión Metálica": "Explosión Metálica",
+    "Viga Acero": "Viga de Acero",
+    "Voltiocambio": "Cambio de Voltios",
+    "Garra Umbría": "Garra Sombría"
+  },
+  "abilities": {},
+  "items": {},
+  "pokemon": {}
+}

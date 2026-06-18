@@ -1,0 +1,9352 @@
+[
+ {
+  "name": "Gigarrayo Fulminante",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 195,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Absorber",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Roca Veloz",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Ácido",
+  "type": "Veneno",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Armadura Ácida",
+  "type": "Veneno",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Diluvio Corrosivo",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bomba Ácida",
+  "type": "Veneno",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Acróbata",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 55,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Acupresión",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Aéreo",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aerochorro",
+  "type": "Volador",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cede Paso",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Agilidad",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aire Afilado",
+  "type": "Volador",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 95,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tajo Aéreo",
+  "type": "Volador",
+  "category": "Especial",
+  "power": 75,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ráfaga Demoledora",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Canto Encantador",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cambio de Banda",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 2,
+  "effect": ""
+ },
+ {
+  "name": "Amnesia",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Anclaje",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Poder Pasado",
+  "type": "Roca",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ácido Málico",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aqua Cutter",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Acua Jet",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Acua Aro",
+  "type": "Agua",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aqua Step",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Acua Cola",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Armor Cannon",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Empujón",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 15,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aromaterapia",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Niebla Aromática",
+  "type": "Hada",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ayuda",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Buena Baza",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Impresionar",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Orbes Espectro",
+  "type": "Fantasma",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Al Ataque",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Atracción",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Esfera Aural",
+  "type": "Lucha",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rueda Aural",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 110,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rayo Aurora",
+  "type": "Hielo",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Velo Aurora",
+  "type": "Hielo",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aligerar",
+  "type": "Acero",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Alud",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": -4,
+  "effect": ""
+ },
+ {
+  "name": "Axe Kick",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ojitos Tiernos",
+  "type": "Hada",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Umbreozona",
+  "type": "Siniestro",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Búnker",
+  "type": "Veneno",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 4,
+  "effect": ""
+ },
+ {
+  "name": "Barb Barrage",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bombardeo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 15,
+  "accuracy": 85,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Barrera",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Relevo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pico Cañón",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": -3,
+  "effect": ""
+ },
+ {
+  "name": "Paliza",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Embate Supremo",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tajo Supremo",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Eructo",
+  "type": "Veneno",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tambor",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ofrenda",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Venganza",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Atadura",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 15,
+  "accuracy": 85,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mordisco",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bitter Blade",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bitter Malice",
+  "type": "Fantasma",
+  "category": "Especial",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Agujero Negro Aniquilador",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Anillo Ígneo",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Patada Ígnea",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 85,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Blazing Torque",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bleakwind Storm",
+  "type": "Volador",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ventisca",
+  "type": "Hielo",
+  "category": "Especial",
+  "power": 110,
+  "accuracy": 70,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bloqueo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Blood Moon",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Megatón Floral",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Llama Azul",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 130,
+  "accuracy": 85,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Plancha Corporal",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Cuerpo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Electropico",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ataque Fulgor",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 130,
+  "accuracy": 85,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hueso Palo",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 85,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Huesomerang",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ataque Óseo",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 25,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Estruendo",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bote",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 85,
+  "accuracy": 85,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Vapodrenaje",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Punzada Rama",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pájaro Osado",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Vasto Impacto",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Carrera Arrolladora",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Demolición",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Salmuera",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Giro Vil",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Burbuja",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rayo Burbuja",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Picadura",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Zumbido",
+  "type": "Bicho",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Corpulencia",
+  "type": "Lucha",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Terratemblor",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puño Bala",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Semilladora",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 25,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Llama Protectora",
+  "type": "Fuego",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 4,
+  "effect": ""
+ },
+ {
+  "name": "Envidia Ardiente",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Llama Final",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 130,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Joltioparálisis",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Paz Mental",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Camuflaje",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Seducción",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pikavoltio Letal",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 210,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ceaseless Edge",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 90,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Celebración",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Carga",
+  "type": "Eléctrico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rayo Carga",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 50,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Encanto",
+  "type": "Hada",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cháchara",
+  "type": "Volador",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Chilling Water",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Chilly Reception",
+  "type": "Hielo",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Guardia Baja",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Chloroblast",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 150,
+  "accuracy": 95,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Llave Giro",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": -6,
+  "effect": ""
+ },
+ {
+  "name": "Tenaza",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 35,
+  "accuracy": 85,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fragor Escamas",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 110,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Estruendo Escama",
+  "type": "Dragón",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Estruendo Implacable",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 185,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Niebla Clara",
+  "type": "Veneno",
+  "category": "Especial",
+  "power": 50,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "A Bocajarro",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Motivación",
+  "type": "Lucha",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Enrosque",
+  "type": "Veneno",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Collision Course",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Combat Torque",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puño Cometa",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 18,
+  "accuracy": 85,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Comeuppance",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Confidencia",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rayo Confuso",
+  "type": "Fantasma",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Confusión",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Restricción",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 100,
+  "pp": 35,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aplastamiento Gigalítico",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Conversión",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Conversión2",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Copión",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Núcleo Castigo",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hélice Trepanadora",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Gas Corrosivo",
+  "type": "Veneno",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Masa Cósmica",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rizo Algodón",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Esporagodón",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Contraataque",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": -5,
+  "effect": ""
+ },
+ {
+  "name": "Cambio de Cancha",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Antojo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Martillazo",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Truco Defensa",
+  "type": "Hada",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 3,
+  "effect": ""
+ },
+ {
+  "name": "Tajo Cruzado",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Veneno X",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Triturar",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Garra Brutal",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Agarrón",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maldición",
+  "type": "Fantasma",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Corte",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 95,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Lariat Oscuro",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pulso Umbrío",
+  "type": "Siniestro",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Brecha Negra",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 50,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Brillo Mágico",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Decoración",
+  "type": "Hada",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "A Defender",
+  "type": "Bicho",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rizo Defensa",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Despejar",
+  "type": "Volador",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mismo Destino",
+  "type": "Fantasma",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Detección",
+  "type": "Lucha",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 4,
+  "effect": ""
+ },
+ {
+  "name": "Dracoaliento Devastador",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Torm. Diamantes",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Excavar",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Dire Claw",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Anulación",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Voz Cautivadora",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Chispazo",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Buceo",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puño Mareo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Doodle",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Deseo Oculto",
+  "type": "Acero",
+  "category": "Especial",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Doble Filo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Doble Golpe",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 35,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ferropuño Doble",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Doble Patada",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Double Shock",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Doble Bofetón",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 15,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Doble Equipo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cometa Draco",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ascenso Draco",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Dragoaliento",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bramido Dragón",
+  "type": "Dragón",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Garra Dragón",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Danza Dragón",
+  "type": "Dragón",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Dracoflechas",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Dracoenergía",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Martillo Dragón",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pulso Dragón",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Furia Dragón",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Carga Dragón",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cola Dragón",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": -6,
+  "effect": ""
+ },
+ {
+  "name": "Beso Drenaje",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puño Drenaje",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Comesueños",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pico Taladro",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Taladradora",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Batería Asalto",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Bis",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 90,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ala Bis",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cañón Dinamax",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puño Dinámico",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 50,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tierra Viva",
+  "type": "Tierra",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Terremoto",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Eco Voz",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Onda Anómala",
+  "type": "Eléctrico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Conjuro Funesto",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bomba Huevo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Campo Eléctrico",
+  "type": "Eléctrico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Electrificación",
+  "type": "Eléctrico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bola Voltio",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Electro Drift",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Electrorrayo",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 130,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Electrotela",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Embargo",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ascuas",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Otra Vez",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Esfuerzo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aguante",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 4,
+  "effect": ""
+ },
+ {
+  "name": "Energibola",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Danza Amiga",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Estallido",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Esper Wing",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rayo Infinito",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 160,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Vasta Fuerza",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Explosión",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 250,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Paranormal",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Novena Potencia",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Veloc. Extrema",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 2,
+  "effect": ""
+ },
+ {
+  "name": "Imagen",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cerrojo Feérico",
+  "type": "Hada",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Viento Feérico",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sorpresa",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 3,
+  "effect": ""
+ },
+ {
+  "name": "Llanto Falso",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Irreverencia",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Falso Tortazo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Danza Pluma",
+  "type": "Volador",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Amago",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 2,
+  "effect": ""
+ },
+ {
+  "name": "Finta",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aguijón Letal",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Láser Veleidoso",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Danza Llama",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Furia Candente",
+  "type": "Siniestro",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fillet Away",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sacrificio",
+  "type": "Lucha",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Llamarada",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 110,
+  "accuracy": 85,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Colmillo Ígneo",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Látigo Ígneo",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Voto Fuego",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puño Fuego",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Giro Fuego",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 35,
+  "accuracy": 85,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Escaramuza",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 2,
+  "effect": ""
+ },
+ {
+  "name": "Branquibocado",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fisura",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 30,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Azote",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pirotecnia",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Nitrocarga",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Lanzallamas",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rueda Fuego",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Envite Ígneo",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Destello",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Foco Resplandor",
+  "type": "Acero",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Camelo",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cañón Floral",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Lanzamiento",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Viraje",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pikapicado",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cura Floral",
+  "type": "Hada",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Defensa Floral",
+  "type": "Hada",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Flower Trick",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Vuelo",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Plancha Voladora",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Onda Certera",
+  "type": "Lucha",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 70,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Foco Energía",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puño Certero",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": -3,
+  "effect": ""
+ },
+ {
+  "name": "Señuelo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 2,
+  "effect": ""
+ },
+ {
+  "name": "Palmeo",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Profecía",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Condena Silvana",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Juego Sucio",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Liofilización",
+  "type": "Hielo",
+  "category": "Especial",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rayo Gélido",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mirada Heladora",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Glaceoprisma",
+  "type": "Hielo",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Planta Feroz",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Vaho Gélido",
+  "type": "Hielo",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Frustración",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ataque Furia",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 15,
+  "accuracy": 85,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Corte Furia",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 95,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpes Furia",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 18,
+  "accuracy": 80,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rayo Fusión",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Llama Fusión",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Premonición",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bilis",
+  "type": "Veneno",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rueda Doble",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 85,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Piñón Auxiliar",
+  "type": "Acero",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Supernova Original",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 185,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Geocontrol",
+  "type": "Hada",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Gigadrenado",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Gigaimpacto",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Gigaton Hammer",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 160,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Gigavoltio Destructor",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Lanza Glacial",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mundo Gélido",
+  "type": "Hielo",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Glaive Rush",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Deslumbrar",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Espeaura",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Befuddle",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Cannonade",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Centiferno",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Chi Strike",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Cuddle",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Depletion",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Drum Solo",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 160,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Finale",
+  "type": "Hada",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Fireball",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 160,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Foam Burst",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Gold Rush",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Gravitas",
+  "type": "Psíquico",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Hydrosnipe",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 160,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Malodor",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Meltdown",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max One Blow",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Rapid Flow",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Replenish",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Resonance",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Sandblast",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Smite",
+  "type": "Hada",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Snooze",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Steelsurge",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Stonesurge",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Stun Shock",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Sweetness",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Tartness",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Terror",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Vine Lash",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Volcalith",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Volt Crash",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Wildfire",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "G-Max Wind Rage",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hierba Lazo",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Voto Planta",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Silbato",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 55,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fitoimpulso",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 55,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Campo de Hierba",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fuerza G",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Gravedad",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Gruñido",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Desarrollo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rabia",
+  "type": "Fantasma",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cólera del Guardián",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Isoguardia",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cambiadefensa",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Guillotina",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 30,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Lanzamugre",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 80,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tornado",
+  "type": "Volador",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Giro Bola",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Granizo",
+  "type": "Hielo",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Machada",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Paga Extra",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fortaleza",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Prensa Metálica",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Niebla",
+  "type": "Hielo",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Cabeza",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ariete",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Headlong Rush",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Testarazo",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 150,
+  "accuracy": 80,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Campana Cura",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Anticura",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Deseo Cura",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Auxilio",
+  "type": "Bicho",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pulso Cura",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Arrumaco",
+  "type": "Psíquico",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cambia Almas",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Calor",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Onda Ígnea",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 95,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cuerpo Pesado",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Refuerzo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 5,
+  "effect": ""
+ },
+ {
+  "name": "Infortunio",
+  "type": "Fantasma",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Poder Oculto",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fuerza Equina",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 95,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pat. Salto Alta",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Clemencia",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Manos Juntas",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Afilagarras",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cornada",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Perforador",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 30,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Asta Drenaje",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aullido",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Vendaval",
+  "type": "Volador",
+  "category": "Especial",
+  "power": 110,
+  "accuracy": 70,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hidrocañón",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hidrobomba",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 110,
+  "accuracy": 80,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hidrovapor",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hidrovórtice Abisal",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hiperrayo",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hyper Drill",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hipercolmillo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 90,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cerco Dimensión",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Paso Dimensional",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Vozarrón",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hipnosis",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 60,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bola Hielo",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 30,
+  "accuracy": 90,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rayo Hielo",
+  "type": "Hielo",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Llama Gélida",
+  "type": "Hielo",
+  "category": "Especial",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Colmillo Hielo",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Martillo Hielo",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puño Hielo",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Canto Helado",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Ice Spinner",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Chuzos",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 85,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Carámbano",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 25,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Viento Hielo",
+  "type": "Hielo",
+  "category": "Especial",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sellar",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Calcinación",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Infernal Parade",
+  "type": "Fantasma",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Infierno",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 50,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hecatombe Pírica",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Acoso",
+  "type": "Bicho",
+  "category": "Especial",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Arraigo",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mandato",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cortina Plasma",
+  "type": "Eléctrico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 25,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Defensa Férrea",
+  "type": "Acero",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cabeza de Hierro",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cola Férrea",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ivy Cudgel",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Presa Maxilar",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Jet Punch",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Sentencia",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Patada Salto",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cura Selvática",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Kárate",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Kinético",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 80,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Escudo Real",
+  "type": "Acero",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 4,
+  "effect": ""
+ },
+ {
+  "name": "Desarme",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Kowtow Cleave",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 85,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fuerza Telúrica",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aguzar",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Desahogo",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Última Baza",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Last Respects",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Humareda",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Follaje",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hoja Aguda",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Lluevehojas",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ciclón de Hojas",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Chupavidas",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Drenadoras",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Malicioso",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Somanta Amistosa",
+  "type": "Hada",
+  "category": "Físico",
+  "power": 190,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Lengüetazo",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Gota Vital",
+  "type": "Agua",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Luz Aniquiladora",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pantalla de Luz",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fotodestrucción Apocalíptica",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 200,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hidroariete",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fijar Blanco",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Beso Amoroso",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 75,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Patada Baja",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puntapié",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Conjuro",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Lumina Crash",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Lunar Blessing",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Danza Lunar",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Plancha",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Resplandor",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ultrapuño",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Hoja Mágica",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Magical Torque",
+  "type": "Hada",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Capa Mágica",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 4,
+  "effect": ""
+ },
+ {
+  "name": "Polvo Mágico",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Zona Mágica",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Lluvia Ígnea",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bomba Imán",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aura Magnética",
+  "type": "Eléctrico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Levitón",
+  "type": "Eléctrico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Magnitud",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Make It Rain",
+  "type": "Acero",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hiperplancha Oscura",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 180,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cadena Virulenta",
+  "type": "Veneno",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Escudo Tatami",
+  "type": "Lucha",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Matcha Gotcha",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 90,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxiciclón",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxisombra",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxignición",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxinsecto",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxichorro",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxibarrera",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 4,
+  "effect": ""
+ },
+ {
+  "name": "Maxihelada",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxipuño",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxitormenta",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxionda",
+  "type": "Psíquico",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxiácido",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxiflora",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxiespectro",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxitemblor",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxilito",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxiestela",
+  "type": "Hada",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maximetal",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxiataque",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maxidraco",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mal de Ojo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Meditación",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Yo Primero",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Megaagotar",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Megacuerno",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Megapatada",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 75,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Megapuño",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 85,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Legado",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Deflagración Lunar",
+  "type": "Fantasma",
+  "category": "Especial",
+  "power": 200,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Represión Metal",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Garra Metal",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 95,
+  "pp": 35,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Eco Metálico",
+  "type": "Acero",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 85,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Asalto Estelar",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rayo Meteórico",
+  "type": "Roca",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puño Meteoro",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Metrónomo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Filo Potente",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Batido",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mimético",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cabeza Sorpresa",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Telépata",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Reducción",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Gran Ojo",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Manto Espejo",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": -5,
+  "effect": ""
+ },
+ {
+  "name": "Espejo",
+  "type": "Volador",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Disparo Espejo",
+  "type": "Acero",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Neblina",
+  "type": "Hielo",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bola Neblina",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bruma Explosiva",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Campo de Niebla",
+  "type": "Hada",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fuerza Lunar",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rayo Umbrío",
+  "type": "Fantasma",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Luz Lunar",
+  "type": "Hada",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sol Matinal",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mortal Spin",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mountain Gale",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bomba Fango",
+  "type": "Tierra",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Agua Lodosa",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Disparo Lodo",
+  "type": "Tierra",
+  "category": "Especial",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bofetón Lodo",
+  "type": "Tierra",
+  "category": "Especial",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Chapoteo Lodo",
+  "type": "Tierra",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Multiataque",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Llama Embrujada",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mystical Power",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 70,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Maquinación",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Don Natural",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Adaptación",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Furia Natural",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Brazo Pincho",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Presa Espectral",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pulso Noche",
+  "type": "Siniestro",
+  "category": "Especial",
+  "power": 85,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pesadilla",
+  "type": "Fantasma",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tinieblas",
+  "type": "Fantasma",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tajo Umbrío",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Nihil Light",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rugido de Guerra",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bastión Final",
+  "type": "Lucha",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Noxious Torque",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Moflete Estático",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ala Mortífera",
+  "type": "Volador",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Obstrucción",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 4,
+  "effect": ""
+ },
+ {
+  "name": "Sinfonía de la Diva Marina",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 195,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pulpocañón",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Octopresa",
+  "type": "Lucha",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rastreo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Viento Aciago",
+  "type": "Fantasma",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Order Up",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pulso Primigenio",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 110,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Enfado",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Amplificador",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sofoco",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Divide Dolor",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Carga Parábola",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Última Palabra",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Vendetta",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Día de Pago",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Picotazo",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 35,
+  "accuracy": 100,
+  "pp": 35,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Canto Mortal",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tormenta Floral",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Danza Pétalo",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Fantasma",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Géiser Fotónico",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pikatormenta",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pin Misil",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 25,
+  "accuracy": 95,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puños Plasma",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Camaradería",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Carantoña",
+  "type": "Hada",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Picoteo",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Colmillo Veneno",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Gas Venenoso",
+  "type": "Veneno",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 90,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puya Nociva",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Polvo Veneno",
+  "type": "Veneno",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 75,
+  "pp": 35,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Picotazo Veneno",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 15,
+  "accuracy": 100,
+  "pp": 35,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cola Veneno",
+  "type": "Veneno",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bola de Polen",
+  "type": "Bicho",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Poltergeist",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 110,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Population Bomb",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 20,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pounce",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Destructor",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Polvo Explosivo",
+  "type": "Bicho",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Nieve Polvo",
+  "type": "Hielo",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Joya de Luz",
+  "type": "Roca",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Power Shift",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Isofuerza",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cambiafuerza",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Truco Fuerza",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Chulería",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puño Incremento",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Latigazo",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Filo del Abismo",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Presente",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 90,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Láser Prisma",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 160,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Protección",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 4,
+  "effect": ""
+ },
+ {
+  "name": "Psicorrayo",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Psicohojas",
+  "type": "Psíquico",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Psíquico",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Psicocolmillo",
+  "type": "Psíquico",
+  "category": "Físico",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Psicorruido",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Campo Psíquico",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Psicoataque",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Psicocorte",
+  "type": "Psíquico",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Psicocambio",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Más Psique",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Psyshield Bash",
+  "type": "Psíquico",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Psicocarga",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Onda Mental",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Psicoonda",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Arrojo Intempestivo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 210,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Castigo",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Purificación",
+  "type": "Veneno",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Persecución",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Balón Ígneo",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Último Lugar",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ataque Rápido",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Anticipo",
+  "type": "Lucha",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 3,
+  "effect": ""
+ },
+ {
+  "name": "Danza Aleteo",
+  "type": "Bicho",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Furia",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rage Fist",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Polvo Ira",
+  "type": "Bicho",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 2,
+  "effect": ""
+ },
+ {
+  "name": "Raging Bull",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Raging Fury",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Danza Lluvia",
+  "type": "Agua",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Giro Rápido",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hoja Afilada",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Concha Filo",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Viento Cortante",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Recuperación",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Reciclaje",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Reflejo",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Clonatipo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Alivio",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Canto Arcaico",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Descanso",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Represalia",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Retribución",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Danza Despertar",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Desquite",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": -4,
+  "effect": ""
+ },
+ {
+  "name": "Inversión",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Revival Blessing",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Alto Voltaje",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rugido",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": -6,
+  "effect": ""
+ },
+ {
+  "name": "Distorsión",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pedrada",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 25,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Treparrocas",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 85,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pulimento",
+  "type": "Roca",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Avalancha",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Roca",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Lanzarrocas",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 90,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tumba Rocas",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Romperrocas",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Imitación",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Patada Giro",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 85,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rodar",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 30,
+  "accuracy": 90,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Respiro",
+  "type": "Volador",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fertilizante",
+  "type": "Tierra",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Canon",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ruination",
+  "type": "Siniestro",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fuego Sagrado",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Espada Santa",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Velo Sagrado",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Salt Cure",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ataque Arena",
+  "type": "Tierra",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sandsear Storm",
+  "type": "Tierra",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tormenta Arena",
+  "type": "Roca",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bucle Arena",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 35,
+  "accuracy": 85,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Leafitobombas",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Guadaña Sedosa",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Escaldar",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ráfaga Escamas",
+  "type": "Dragón",
+  "category": "Físico",
+  "power": 25,
+  "accuracy": 90,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cara Susto",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Arenas Ardientes",
+  "type": "Tierra",
+  "category": "Especial",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Arañazo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Chirrido",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 85,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bomba Ígnea",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Embestida Solar",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 200,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Daño Secreto",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sable Místico",
+  "type": "Lucha",
+  "category": "Especial",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bomba Germen",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fogonazo",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sísmico",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Autodestrucción",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 200,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bola Sombra",
+  "type": "Fantasma",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hueso Sombrío",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Garra Umbría",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Umbrío",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puño Sombra",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sombra Vil",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Afilar",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Disruptor Psíquico",
+  "type": "Psíquico",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Shed Tail",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Frío Polar",
+  "type": "Hielo",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 30,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Moluscañón",
+  "type": "Veneno",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rompecoraza",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Coraza Trampa",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": -3,
+  "effect": ""
+ },
+ {
+  "name": "Shelter",
+  "type": "Acero",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cambio de Marcha",
+  "type": "Acero",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Onda Voltio",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Recogearena",
+  "type": "Tierra",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Doble Rayo",
+  "type": "Bicho",
+  "category": "Especial",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Silk Trap",
+  "type": "Bicho",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 4,
+  "effect": ""
+ },
+ {
+  "name": "Viento Plata",
+  "type": "Bicho",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Onda Simple",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Canto",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 55,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aluvión de Flechas Sombrías",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 180,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Flarembestida",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Esquema",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Intercambio",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Rastrero",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cabezazo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 130,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ataque Aéreo",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Caída Libre",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Gancho Alto",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 85,
+  "accuracy": 90,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Relajo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Atizar",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 75,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cuchillada",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Somnífero",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 75,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sonámbulo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Residuos",
+  "type": "Veneno",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bomba Lodo",
+  "type": "Veneno",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Onda Tóxica",
+  "type": "Veneno",
+  "category": "Especial",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Antiaéreo",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cuerno Certero",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Estímulo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Polución",
+  "type": "Veneno",
+  "category": "Especial",
+  "power": 30,
+  "accuracy": 70,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pantalla de Humo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cepo",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 35,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Alarido",
+  "type": "Siniestro",
+  "category": "Especial",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Robo",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 4,
+  "effect": ""
+ },
+ {
+  "name": "Disparo Certero",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ronquido",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Snowscape",
+  "type": "Hielo",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Anegar",
+  "type": "Agua",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Amortiguador",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rayo Solar",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cuchilla Solar",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 125,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bomba Sónica",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 90,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Constelación Robaalmas",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 195,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Corte Vacío",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Chispa",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Aria Burbuja",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sylveotornado",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Robasombra",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cambiavelocidad",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Spicy Extract",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Telaraña",
+  "type": "Bicho",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Clavo Cañón",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Púas",
+  "type": "Tierra",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Barrera Espinosa",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 4,
+  "effect": ""
+ },
+ {
+  "name": "Spin Out",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Choque Anímico",
+  "type": "Hada",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puntada Sombría",
+  "type": "Fantasma",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rencor",
+  "type": "Fantasma",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Escupir",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Salpicadura",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tempestad Rocosa",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 190,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Salpikasurf",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Espora",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Foco",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 3,
+  "effect": ""
+ },
+ {
+  "name": "Springtide Storm",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Trampa Rocas",
+  "type": "Roca",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Chorro de Vapor",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 110,
+  "accuracy": 95,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rodillo de Púas",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Metaláser",
+  "type": "Acero",
+  "category": "Especial",
+  "power": 140,
+  "accuracy": 95,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Allanador Férreo",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 130,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ala de Acero",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 90,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Red Viscosa",
+  "type": "Bicho",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Reserva",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Surfeo Galvánico",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 175,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pisotón",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pataleta",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Stone Axe",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 90,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Roca Afilada",
+  "type": "Roca",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Poder Reserva",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Llave Corsé",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cautivapor",
+  "type": "Hada",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fuerza",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Absorbefuerza",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Disparo Demora",
+  "type": "Bicho",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 95,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Forcejeo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Estoicismo",
+  "type": "Bicho",
+  "category": "Especial",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Atiborramiento",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Paralizador",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 75,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sumisión",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 80,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sustituto",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Crioaliento Despiadado",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Bajo",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Día Soleado",
+  "type": "Fuego",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Meteoimpacto",
+  "type": "Acero",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Plancha Voltaica",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Superdiente",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fuerza Bruta",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Supersónico",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 55,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Picado Supersónico",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Surf",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Azote Torrencial",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 25,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Contoneo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 85,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tragar",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Beso Dulce",
+  "type": "Hada",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 75,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Dulce Aroma",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rapidez",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Trapicheo",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Danza Espada",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Sincrorruido",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Síntesis",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Syrup Bomb",
+  "type": "Planta",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tajo Taquión",
+  "type": "Acero",
+  "category": "Especial",
+  "power": 50,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Placaje",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ráfaga",
+  "type": "Bicho",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Plumerazo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 25,
+  "accuracy": 85,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Látigo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Viento Afín",
+  "type": "Volador",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Derribo",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 85,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Take Heart",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Alquitranazo",
+  "type": "Roca",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mofa",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ojos Llorosos",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hora del Té",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tecno Shock",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Barrena Telúrica",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Danza Caos",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Telequinesis",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Teletransporte",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": -6,
+  "effect": ""
+ },
+ {
+  "name": "Cólera Ardiente",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tera Blast",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Teraclúster",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pulso de Campo",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ladrón",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mil Flechas",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mil Temblores",
+  "type": "Tierra",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Mordaza",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Trueno",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 110,
+  "accuracy": 70,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Rayo",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Electrojaula",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 90,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Relámpago Súbito",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Colmillo Rayo",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 95,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Patada Relámpago",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Puño Trueno",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Impactrueno",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Onda Trueno",
+  "type": "Eléctrico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 90,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cosquillas",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tidy Up",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Reversión",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Torch Song",
+  "type": "Fuego",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tormento",
+  "type": "Siniestro",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tóxico",
+  "type": "Veneno",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Púas Tóxicas",
+  "type": "Veneno",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hilo Venenoso",
+  "type": "Veneno",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Trailblaze",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Transformación",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Triataque",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Truco",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Halloween",
+  "type": "Fantasma",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Espacio Raro",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": -7,
+  "effect": ""
+ },
+ {
+  "name": "Triple Arrows",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Triple Axel",
+  "type": "Hielo",
+  "category": "Físico",
+  "power": 20,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Triple Dive",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 30,
+  "accuracy": 95,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Triple Patada",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 10,
+  "accuracy": 90,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Patada Tropical",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "As Oculto",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Twin Beam",
+  "type": "Psíquico",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Doble Ataque",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 25,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Arrumaco Sideral",
+  "type": "Hada",
+  "category": "Físico",
+  "power": 1,
+  "accuracy": 0,
+  "pp": 1,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ciclón",
+  "type": "Dragón",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Palma Rauda",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 3,
+  "effect": ""
+ },
+ {
+  "name": "Alboroto",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ida y Vuelta",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Onda Vacío",
+  "type": "Lucha",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "V de Fuego",
+  "type": "Fuego",
+  "category": "Físico",
+  "power": 180,
+  "accuracy": 95,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Eevimpacto",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Trampa Venenosa",
+  "type": "Veneno",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Carga Tóxica",
+  "type": "Veneno",
+  "category": "Especial",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Victory Dance",
+  "type": "Lucha",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Látigo Cepa",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 45,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Agarre",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 55,
+  "accuracy": 100,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tiro Vital",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": -1,
+  "effect": ""
+ },
+ {
+  "name": "Voltiocambio",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Placaje Eléc",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Espabila",
+  "type": "Lucha",
+  "category": "Físico",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cascada",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pistola Agua",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 25,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Voto Agua",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Hidropulso",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Shuriken de Agua",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 15,
+  "accuracy": 100,
+  "pp": 20,
+  "priority": 1,
+  "effect": ""
+ },
+ {
+  "name": "Hidrochorro",
+  "type": "Agua",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Salpicar",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Wave Crash",
+  "type": "Agua",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Meteorobola",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Torbellino",
+  "type": "Agua",
+  "category": "Especial",
+  "power": 35,
+  "accuracy": 85,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Remolino",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 20,
+  "priority": -6,
+  "effect": ""
+ },
+ {
+  "name": "Golpe Oscuro",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Wicked Torque",
+  "type": "Siniestro",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Vastaguardia",
+  "type": "Roca",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 3,
+  "effect": ""
+ },
+ {
+  "name": "Wildbolt Storm",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Voltio Cruel",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Fuego Fatuo",
+  "type": "Fuego",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 85,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Ataque Ala",
+  "type": "Volador",
+  "category": "Físico",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 35,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Deseo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Refugio",
+  "type": "Agua",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 40,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Zona Extraña",
+  "type": "Psíquico",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Mazazo",
+  "type": "Planta",
+  "category": "Físico",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Avivar",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 30,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Abatidoras",
+  "type": "Planta",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Constricción",
+  "type": "Normal",
+  "category": "Físico",
+  "power": 15,
+  "accuracy": 90,
+  "pp": 20,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Estrujón",
+  "type": "Normal",
+  "category": "Especial",
+  "power": 0,
+  "accuracy": 100,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Tijera X",
+  "type": "Bicho",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Bostezo",
+  "type": "Normal",
+  "category": "Estado",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Electrocañón",
+  "type": "Eléctrico",
+  "category": "Especial",
+  "power": 120,
+  "accuracy": 50,
+  "pp": 5,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Cabezazo Zen",
+  "type": "Psíquico",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 90,
+  "pp": 15,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Electropunzada",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 0,
+  "effect": ""
+ },
+ {
+  "name": "Pikaturbo",
+  "type": "Eléctrico",
+  "category": "Físico",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "priority": 2,
+  "effect": ""
+ }
+]

@@ -1,0 +1,55 @@
+{
+  "pokemon": {
+    "Landorus-Therian": "Landorus-Terráqueo",
+    "Rotom-Wash": "Rotom-Lavadora",
+    "Great Tusk": "Colmilargo",
+    "Iron Valiant": "Ferropaladín"
+  },
+  "moves": {
+    "Earthquake": "Terremoto",
+    "Flamethrower": "Lanzallamas",
+    "Thunderbolt": "Rayo",
+    "Shadow Ball": "Bola Sombra",
+    "Dragon Dance": "Danza Dragón",
+    "Fire Punch": "Puño Fuego",
+    "Close Combat": "A Bocajarro",
+    "Dragon Claw": "Garra Dragón",
+    "Outrage": "Enfado",
+    "Stealth Rock": "Trampa Rocas",
+    "Extreme Speed": "Velocidad Extrema",
+    "Play Rough": "Carantoña",
+    "Moonblast": "Fuerza Lunar",
+    "Aura Sphere": "Esfera Aural",
+    "Psychic": "Psíquico",
+    "Iron Head": "Cabeza de Hierro",
+    "Surf": "Surf",
+    "Knock Off": "Desarme",
+    "Low Kick": "Patada Baja",
+    "Ice Shard": "Esquirla Helada",
+    "Ice Spinner": "Trompo Gélido",
+    "Swords Dance": "Danza Espada",
+    "U-turn": "Ida y Vuelta",
+    "Hydro Pump": "Hidrobomba",
+    "Ice Beam": "Rayo Hielo",
+    "Toxic": "Tóxico"
+  },
+  "items": {
+    "Leftovers": "Restos",
+    "Heavy-Duty Boots": "Botas Gruesas",
+    "Focus Sash": "Banda Focus",
+    "Life Orb": "Vidasfera",
+    "Choice Band": "Cinta Elegida",
+    "Choice Specs": "Gafas Elegidas",
+    "Choice Scarf": "Pañuelo Elegido"
+  },
+  "abilities": {
+    "Multiscale": "Multiescama",
+    "Intimidate": "Intimidación",
+    "Levitate": "Levitación",
+    "Blaze": "Mar Llamas",
+    "Torrent": "Torrente",
+    "Protean": "Mutatipo",
+    "Cursed Body": "Cuerpo Maldito",
+    "Regenerator": "Regeneración"
+  }
+}
